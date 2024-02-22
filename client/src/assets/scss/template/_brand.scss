@@ -1,0 +1,83 @@
+/*-------------------------
+   Brand
+-------------------------*/
+.clients-row .col-lg-2.col-6 {
+    width: 20%;
+    @media #{$md-layout} {
+        width: 33%;
+    }
+}
+.brand-wrap-area {
+    padding: 0px 0 90px;
+}
+.about-client-image{
+    width: 12%;
+    padding: 6px;
+    @media #{$sm-layout} {
+        width: 33%;
+    }
+    @media #{$md-layout}{
+        width: 33%;
+    }
+}
+.brand-grid {
+    padding: 0px 0;
+    img {
+        filter: grayscale(100%);
+        opacity: 1;
+        transition: var(--transition);
+        object-fit: scale-down;
+        width: 100%;
+        height: 100px;
+        background: #fff0;
+        padding: 10px;
+        border-radius: 8px;
+        box-shadow: 0 1px 72px 6px rgb(137 213 232 / 15%);
+        background: #fff;
+        @media #{$md-layout}{
+            // object-fit: fill;
+            width: 100%;
+            height: 62px;
+        }
+        @media #{$lg-layout}{
+            padding: 2px;
+            object-fit: scale-down;
+        }
+    }
+    &:hover, &.active {
+        img {
+            opacity: 0.5;
+            filter: grayscale(0);
+        }
+    }
+}
+
+.clients-btn{
+    width: 20%;
+    
+    display: block;
+    margin: 40px auto 0px;
+    @media #{$sm-layout}{
+        width: 60%;
+    display: block;
+    margin: 20px 8px auto 10px;
+    }
+}
+.service_title{
+   @media #{$sm-layout}{
+    font-size: 22px !important;
+    line-height: 27px !important;
+    text-align: center !important;
+   }
+}
+.pot-cards{
+    width:30.33%;
+    padding-left: 10px !important;
+    padding-right: 10px !important ;
+    @media #{$sm-layout}{
+        width: 100%;
+    }
+    .title{
+        font-size: 27px;
+    }
+}

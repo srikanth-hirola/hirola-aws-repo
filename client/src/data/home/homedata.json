@@ -1,0 +1,201 @@
+[
+    {
+        "ourMissiokn": {
+            "title": "To Tell Stories That Inspire Trust And Authority",
+            "description": "We’re a place to learn, thrive and grow.",
+            "servicesProvided": [
+                {
+                    "id": "1",
+                    "title": "Who We Are?",
+                    "description": "We Are SEOs, Writers, Designers, Developers and Strategists"
+                },
+                {
+                    "id": "2",
+                    "title": "What We Do?",
+                    "description": "We believe in building strong brandsand well-crafted content."
+                },
+                {
+                    "id": "3",
+                    "title": "Who We Help?",
+                    "description": "Our clients are creative, conversion focused industry leaders."
+                }
+            ]
+        },
+        "industriesWeServe": {
+            "title": "We Build Pulse Of The Business",
+            "description": "We’re a place to help you in Growing your Profits.",
+            "industriesServices": [
+                {
+                    "id": "1",
+                    "image":"/images/industryicon/icon-1.webp",
+                    "title": "Automotive",
+                    "description": "Hirola Infotech Solutions Digital marketing taps into the customer journey in a more effective way. It helps in the entire buying journey, right from the awareness stage to the buying phase. "
+                },
+                {
+                    "id": "2",
+                    "image":"/images/industryicon/icon-2.webp",
+                    "title": "Education",
+                    "description": "We makes it possible for educational institutions to reach out to the potential students on a wider range of platforms. This in turn generates a lot of traffic which influences conversion rates. "
+                },
+                {
+                    "id": "3",
+                    "image":"/images/industryicon/icon-3.webp",
+                    "title": "Entertainment",
+                    "description": "We consists of a wide spectrum of digital marketing services. In that, Social media marketing and YouTube marketing plays an important role in the entertainment industry around. "
+                },
+                {
+                    "id": "4",
+                    "image":"/images/industryicon/icon-4.webp",
+                    "title": "Financial Services",
+                    "description": "We improve customer engagement and win their trust. It is imperative to implement digital strategies to gain more visibility and reach more potential customers. "
+                },
+                {
+                    "id": "5",
+                    "image":"/images/industryicon/icon-5.webp",
+                    "title": "Food & Drink",
+                    "description": "A brand helps maintain the identity of your restaurant and also gives the potential customers an idea about the quality and type of food you serve . "
+                },
+                {
+                    "id": "6",
+                    "image":"/images/industryicon/icon-6.webp",
+                    "title": "Healthcare",
+                    "description": "Hirola’s Digital marketing services allows Health specialists to showcase expertise to prospective patients, build professional territory, and boost healthcare reputation. "
+                },
+                {
+                    "id": "7",
+                    "image":"/images/industryicon/icon-7.webp",
+                    "title": " Home Services",
+                    "description": "With the right marketing plan in place, your home services marketing can be a breeze and don’t be afraid to try new marketing channels and tactics to help you stand out and reach a new audience. "
+                },
+                {
+                    "id": "8",
+                    "image":"/images/industryicon/icon-8.webp",
+                    "title": "Hospitality & Travel",
+                    "description": "Potential customers are constantly online searching for information about their next holiday or travel experience. If your business isn’t visible where they are looking, you’ll lose to your competitors. "
+                },
+                {
+                    "id": "9",
+                    "image":"/images/industryicon/icon-9.webp",
+                    "title": "Real Estate",
+                    "description": "Hirola Infotechs’s Digital marketing services for Real estate industry will allow you to target and reach an audience beyond your locality — all in just a few clicks and best in conversions. "
+                }
+               
+            ]
+        },
+        "howWeCanHelpYou": {
+            "title": "How Can We Help You?",
+            "description": "Let's do great work together.",
+            "descriptionTwo":"We’ve driven over 95,000+ leads for clients through digital marketing. Choose the right service for you to instantly schedule a call with us.",
+            "servicesProvided": [
+                {
+                    "id": "1",
+                    "title": "Update content on my Website"
+                },
+                {
+                    "id": "2",
+                    "title": "Improve User Experience"
+                },
+                {
+                    "id": "3",
+                    "title": "Request Free Website Review"
+                },
+                {
+                    "id": "4",
+                    "title": "Improve your SEO Rankings"
+                },
+                {
+                    "id": "5",
+                    "title": "All the things Besides"
+                }
+            ]
+        },
+        "whyToChooseUs": {
+            "title": "Reasons to Count on Us",
+            "description": "We’ve created a roadmap for working with companies in a way that effectively executes a solid content marketing strategy.",
+            "servicesProvided": [
+                {
+                    "id": "1",
+                    "title": "Customized Services",
+                    "image": "/images/others/process-1.png",
+                    "description":"We do not believe in the one-size-fits-all philosophy. We recognize that every company’s circumstances are a bit different, which is why we adapt our SEO & PPC marketing plan according to your company’s individual objectives & budget."
+                },
+                {
+                    "id": "2",
+                    "title": "High Quality Services ",
+                    "image": "/images/others/process-2.png",
+                    "description":"The quality we provide is unparalleled and we never deliver solutions or services before testing them properly. We have a rigorous quality check process in place to make sure whatever we deliver is up to the expectations of our clients.   Success Experience   Customer Support"
+                },
+                {
+                    "id": "3",
+                    "title": "Success Experience",
+                    "image": "/images/others/process-3.png",
+                    "description":"Our consultants have been in the digital marketing industry for over 5 years having worked with not only the India’s but with global brands. Our experienced senior team collaborates closely with you throughout our engagement."
+                },
+                {
+                    "id": "4",
+                    "title": "Customer Support",
+                    "image": "/images/others/process-4.png",
+                    "description":"We have a customer support team that works around the clock for flawless communication with our proposed and existing clients. This team can be contacted anytime for making queries regarding our services, discussing new projects."
+                }
+            ]
+        },
+    "ourPatners":[
+        {
+            "id":"1",
+            "image":"/images/banner/microsoft.png"
+        },
+        
+        {
+            "id":"2",
+            "image":"/images/banner/linkidin.png"
+        },
+        {
+            "id":"3",
+            "image":"/images/banner/meta.png"
+        },
+        {
+            "id":"4",
+            "image":"/images/banner/shopify.webp"
+        },
+        {
+            "id":"5",
+            "image":"/images/banner/hubspot.png"
+        },
+        {
+            "id":"6",
+            "image":"/images/banner/google.png"
+        }
+    ],
+    "strategy": {
+        "title": "Why Choose Hirola For Digital Marketing Services in Bangalore?",
+        "description": "Best Digital Branding Services Promises You a Robust Digital Presence.A promise of quality, consistency, competency, and reliability.",
+        "strategiesOf": [
+            {
+                "id": "1",
+                "title": "Expertise",
+                "description": "Hirola has a team of experienced and skilled digital marketers who have a deep understanding of the latest trends and techniques in the industry. They can help businesses develop effective digital marketing strategies that drive results."
+            },
+            {
+                "id": "2",
+                "title": "Customized Solutions",
+                "description": "Hirola offers customized digital marketing solutions tailored to the specific needs of each client. This ensures that businesses get the most effective and efficient digital marketing solutions."
+            },
+            {
+                "id": "3",
+                "title": "Data-Driven Approach",
+                "description": "Hirola uses data-driven techniques and analytics to measure the success of digital marketing campaigns. This approach helps businesses understand what is working and what needs improvement, so they can continuously refine their strategies."
+            },
+            {
+                "id": "4",
+                "title": "Comprehensive Services",
+                "description": "Hirola offers a wide range of digital marketing services, including SEO, PPC, social media marketing, content marketing, email marketing, and more. This allows businesses to get all their digital marketing needs met under one roof."
+            },
+            {
+                "id": "5",
+                "title": "Customer Support",
+                "description": "Hirola provides excellent customer support to its clients, ensuring that they are always available to answer any questions or concerns."
+            }
+        ]
+    }
+    }
+]

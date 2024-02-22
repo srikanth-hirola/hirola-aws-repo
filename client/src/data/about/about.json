@@ -1,0 +1,629 @@
+[
+    {
+        "title": "About Us",
+        "description": "We help our clients get more customers from search, winning awards for our work along the way.Since 2020, our digital marketing company has been partnering with hundreds of businesses in India and beyond  to achieve their conversion goals. Throughout the years, we’ve provided an array of custom digital marketing services to our clients and generated the best results.",
+        "countOnus": [
+            {
+                "id": "1",
+                "workDone": "PAGES EDITED",
+                "workCount": "45 k",
+                "workProgress": "pages"
+            },
+            {
+                "id": "2",
+                "workDone": "JOBS COMPLETED",
+                "workCount": "150 +",
+                "workProgress": "27 in progress"
+            },
+            {
+                "id": "3",
+                "workDone": "WE'VE MANAGED",
+                "workCount": "400 +",
+                "workProgress": "campaigns"
+            },
+            {
+                "id": "4",
+                "workDone": "HAPPY CUSTOMERS",
+                "workCount": "99",
+                "workProgress": "percent"
+            }
+        ],
+        "strategy": {
+            "title": "Why Choose Hirola For Digital Marketing Services in Bangalore?",
+            "description": "There are many online marketing firms providing a variety different digital service for Bangalore. Why should you choose us instead of them? We treat every business as an individual project, and our approach to every project is unique. Our services are custom-designed for each client. Beauty care companies can’t be handled exactly the same way as an Internet service-provider. They must be analyzed differently and different strategies have been developed for each. Hirola is a company that specializes in Hirola We develop our own strategies that are unique to increase your brand’s visibility and help it rise to the list of top brands.",
+            "strategiesOf": [
+                {
+                    "id": "1",
+                    "title": "Our Team",
+                    "description": "We are a digital marketing agency located in Bangalore with an innovative, talented team of experts. Our technical team is responsible for SEO, SMO, web design and more. Our creative team is responsible for design, content, as well as social media interactions. Both teams are able to work together to assist any company we collaborate with."
+                },
+                {
+                    "id": "2",
+                    "title": "Our Achievements",
+                    "description": "Why ask us ...? Our vast client list includes brands like Prodigy Asset, Century, Mahaveer, Nxtgen Bangalore NU Hospitals and other very famous names. Our clients are extremely satisfied by the marketing solutions that we offer and are awed by how their brands are being promoted through the digital space."
+                },
+                {
+                    "id": "3",
+                    "title": "Pocket Friendly Packages",
+                    "description": "The Top Digital marketing agency in Bangalore and yet we have the most appealing and affordable packages that will fit your company's needs and type of marketing needs you'll need. You only pay for the services you specifically request."
+                }
+            ]
+        },
+        "whyUs": {
+            "title": "Reasons To Count On Us?",
+            "description": "Our strong passion for innovation and creativity makes us a brilliant digital marketing partner. We constantly strive to find new ways to enhance the revenue levels of our clients.",
+            "whyOurServices": [
+                {
+                    "id": "1",
+                    "imageUrl": "/images/others/process-1.png",
+                    "title": "Innovative and Passionate",
+                    "description": "Our strong passion for innovation and creativity makes us a brilliant digital marketing partner. We constantly strive to find new ways to enhance the revenue levels of our clients."
+                },
+                {
+                    "id": "2",
+                    "imageUrl": "/images/others/process-2.png",
+                    "title": "High-Quality Services",
+                    "description": "We have a rigorous quality check process in place to make sure whatever we deliver is up to the expectations of our clients."
+                },
+                {
+                    "id": "3",
+                    "imageUrl": "/images/others/process-3.png",
+                    "title": "Over 5 Years Experience",
+                    "description": "Our consultants have been in the digital marketing industry for over 5 years having worked with not only the India's but with global brands."
+                },
+                {
+                    "id": "4",
+                    "imageUrl": "/images/others/process-4.png",
+                    "title": "No Long Term Contracts!",
+                    "description": "Because we are so confident of the results we are able to deliver and that you will be satisfied with our services. We're do not do long term contracts!"
+                },
+                {
+                    "id": "5",
+                    "imageUrl": "/images/others/process-4.png",
+                    "title": "We Deliver on Time",
+                    "description": "We know that time is money in business, so we set realistic deadlines (for ourselves and for our clients) and stick to them."
+                }
+            ]
+        },
+        "meetTeam": {
+            "title": "Meet the Team",
+            "description": "We stake our growth and competitive advantage on our ability to listen to our customers and exceed their service expectations.",
+            "descriptionSub": "Words are not merely words, they are the embodiment of power.",
+            "teamMembers": [
+                {
+                    "id": "1",
+                    "name": "Name",
+                    "designation": "designation"
+                },
+                {
+                    "id": "2",
+                    "name": "Name",
+                    "designation": "designation"
+                },
+                {
+                    "id": "3",
+                    "name": "Name",
+                    "designation": "designation"
+                },
+                {
+                    "id": "4",
+                    "name": "Name",
+                    "designation": "designation"
+                },
+                {
+                    "id": "5",
+                    "name": "Name",
+                    "designation": "designation"
+                }
+            ]
+        },
+        "bestInBusiness": {
+            "title": "Why Choose Hirola For Digital Marketing Services in Bangalore?",
+            "description": "There are many online marketing firms providing a variety different digital service for Bangalore. Why should you choose us instead of them? We treat every business as an individual project, and our approach to every project is unique. Our services are custom-designed for each client. Beauty care companies can’t be handled exactly the same way as an Internet service-provider. They must be analyzed differently and different strategies have been developed for each. Hirola is a company that specializes in Hirola We develop our own strategies that are unique to increase your brand’s visibility and help it rise to the list of top brands.",
+            "bestInBusinessData": [
+                {
+                    "id": "1",
+                    "title": "Our Team",
+                    "description": "We are a digital marketing agency located in Bangalore with an innovative, talented team of experts. Our technical team is responsible for SEO, SMO, web design and more. Our creative team is responsible for design, content, as well as social media interactions. Both teams are able to work together to assist any company we collaborate with."
+                },
+                {
+                    "id": "2",
+                    "title": "Our Achievements",
+                    "description": "Why ask us ...? Our vast client list includes brands like Prodigy Asset, Century, Mahaveer, Nxtgen Bangalore NU Hospitals and other very famous names. Our clients are extremely satisfied by the marketing solutions that we offer and are awed by how their brands are being promoted through the digital space."
+                },
+                {
+                    "id": "3",
+                    "title": "Pocket Friendly Packages",
+                    "description": "The Top Digital marketing agency in Bangalore and yet we have the most appealing and affordable packages that will fit your company's needs and type of marketing needs you'll need. You only pay for the services you specifically request."
+                }
+            ]
+        },
+        "vision": {
+            "title": "Vision",
+            "description": "Our vision is to create a business world full of prosperity, meaning, and connection for all."
+        },
+        "mission": {
+            "title": "Mission",
+            "description": "Our mission is to be the experts in marketing and sales alignment and the masters of the message and Provide the best customer results possible and deliver the WOW factor through our services."
+        },
+        "ourJounrney": [
+            {
+                "id": "1",
+                "title": "Dec 2019",
+                "description": "An Idea of Generation arises – To establish a company that helps million in growth of their company."
+            },
+            {
+                "id": "2",
+                "title": "Mar 2020",
+                "description": "Created a Brand Name: Hirola Infotech Solutions and went a step forward. Became Pvt Ltd Company with 5 Employees and 3 Local Projects from Bengaluru."
+            },
+            {
+                "id": "3",
+                "title": "October 2020",
+                "description": "Signed a first Project from other state of India – Telangana."
+            },
+            {
+                "id": "4",
+                "title": "Feb 2021",
+                "description": "Signed a First International Project from Canada and Team Increased to 20+ Members."
+            },
+            {
+                "id": "5",
+                "title": "September 2021",
+                "description": "Signed 50th project Worldwide and Partnership with Disney+Hotstar and Taboola."
+            },
+            {
+                "id": "6",
+                "title": "March 2022",
+                "description": "Crossed 7Million INR, In spending Ads and Generation more than 60Million revenue for Clients and reached a great milestone."
+            },
+            {
+                "id": "7",
+                "title": "June 2022",
+                "description": "Re-Branded the company and still successfully running in 5 different states Including UAE with more than 50+ Live projects and 40 Staff members."
+            }
+        ],
+        "ourClients": [
+            {
+                "id": "1",
+                "imageUrl": "/images/brand/client-image-1.png"
+            },
+            {
+                "id": "2",
+                "imageUrl": "/images/brand/client-image-2.png"
+            },
+            {
+                "id": "3",
+                "imageUrl": "/images/brand/client-image-3.png"
+            },
+            {
+                "id": "4",
+                "imageUrl": "/images/brand/client-image-4.png"
+            },
+            {
+                "id": "5",
+                "imageUrl": "/images/brand/client-image-5.png"
+            },
+            {
+                "id": "6",
+                "imageUrl": "/images/brand/client-image-6.png"
+            },
+            {
+                "id": "7",
+                "imageUrl": "/images/brand/client-image-7.png"
+            },
+            {
+                "id": "8",
+                "imageUrl": "/images/brand/client-image-8.png"
+            },
+            {
+                "id": "9",
+                "imageUrl": "/images/brand/client-image-9.png"
+            },
+            {
+                "id": "10",
+                "imageUrl": "/images/brand/client-image-10.png"
+            },
+            {
+                "id": "11",
+                "imageUrl": "/images/brand/client-image-11.png"
+            },
+            {
+                "id": "12",
+                "imageUrl": "/images/brand/client-image-12.png"
+            },
+            {
+                "id": "13",
+                "imageUrl": "/images/brand/client-image-13.png"
+            },
+            {
+                "id": "14",
+                "imageUrl": "/images/brand/client-image-14.png"
+            },
+            {
+                "id": "15",
+                "imageUrl": "/images/brand/client-image-15.png"
+            },
+            {
+                "id": "16",
+                "imageUrl": "/images/brand/client-image-16.png"
+            },
+            {
+                "id": "17",
+                "imageUrl": "/images/brand/client-image-17.png"
+            },
+            {
+                "id": "18",
+                "imageUrl": "/images/brand/client-image-18.png"
+            },
+            {
+                "id": "19",
+                "imageUrl": "/images/brand/client-image-19.png"
+            },
+            {
+                "id": "20",
+                "imageUrl": "/images/brand/client-image-20.png"
+            },
+            {
+                "id": "21",
+                "imageUrl": "/images/brand/client-image-21.png"
+            },
+            {
+                "id": "22",
+                "imageUrl": "/images/brand/client-image-22.png"
+            },
+            {
+                "id": "23",
+                "imageUrl": "/images/brand/client-image-23.png"
+            },
+            {
+                "id": "24",
+                "imageUrl": "/images/brand/client-image-24.png"
+            },
+            {
+                "id": "25",
+                "imageUrl": "/images/brand/client-image-25.png"
+            },
+            {
+                "id": "26",
+                "imageUrl": "/images/brand/client-image-26.png"
+            },
+            {
+                "id": "27",
+                "imageUrl": "/images/brand/client-image-27.png"
+            },
+            {
+                "id": "28",
+                "imageUrl": "/images/brand/client-image-28.png"
+            },
+            {
+                "id": "29",
+                "imageUrl": "/images/brand/client-image-29.png"
+            },
+            {
+                "id": "30",
+                "imageUrl": "/images/brand/client-image-30.png"
+            },
+            {
+                "id": "31",
+                "imageUrl": "/images/brand/client-image-31.png"
+            },
+            {
+                "id": "32",
+                "imageUrl": "/images/brand/client-image-32.png"
+            },
+            {
+                "id": "33",
+                "imageUrl": "/images/brand/client-image-33.png"
+            },
+            {
+                "id": "34",
+                "imageUrl": "/images/brand/client-image-34.png"
+            },
+            {
+                "id": "35",
+                "imageUrl": "/images/brand/client-image-35.png"
+            },
+            {
+                "id": "36",
+                "imageUrl": "/images/brand/client-image-36.png"
+            },
+            {
+                "id": "37",
+                "imageUrl": "/images/brand/client-image-37.png"
+            },
+            {
+                "id": "38",
+                "imageUrl": "/images/brand/client-image-38.png"
+            },
+            {
+                "id": "39",
+                "imageUrl": "/images/brand/client-image-39.png"
+            },
+            {
+                "id": "40",
+                "imageUrl": "/images/brand/client-image-40.png"
+            },
+            {
+                "id": "41",
+                "imageUrl": "/images/brand/client-image-41.png"
+            },
+            {
+                "id": "42",
+                "imageUrl": "/images/brand/client-image-42.png"
+            },
+            {
+                "id": "43",
+                "imageUrl": "/images/brand/client-image-43.png"
+            }
+        ],
+        "faq": [
+            {
+                "id": "1",
+                "faqTitle": "Do you provide free samples?",
+                "faqDescription": "Unfortunately, we don’t provide free samples – it’s just one of our rules. Free samples don’t do our copywriting justice out with the context of a full project. Free work also takes time to research, structure, draft, edit, and proofread, which we need to charge for."
+            },
+            {
+                "id": "2",
+                "faqTitle": "Does guest blogging help with SEO?",
+                "faqDescription": "Yes. Each link back to your website (backlink) from a high-authority website gives you extra ‘points’ towards your SEO and is one of the key considerations for search engines. Backlinks prove expertise, relevance and quality content. Another element of SEO is popularity, and the more referral traffic you can gain, the better your popularity, so guest blogging works to improve several significant SEO factors at the same time."
+            },
+            {
+                "id": "3",
+                "faqTitle": "How long will my copy take?",
+                "faqDescription": "The first thing we ask is when your deadline is. As long it’s not too last minute, we’ll have your copy ready for then. If you don’t have a deadline, we would provide you with an estimate of how long it will take and will keep you posted on our progress."
+            },
+            {
+                "id": "4",
+                "faqTitle": "What if I’m not happy with my first draft?",
+                "faqDescription": "We like to revise our copy as we go. We offer unlimited amendments (within reason) until you’re happy with your draft. We then take on board all your feedback before moving on to the next task."
+            },
+            {
+                "id": "5",
+                "faqTitle": "What industries do you write for?",
+                "faqDescription": "We specialise in writing for the education, technology, and energy industries. However, we don’t limit ourselves to these sectors alone. If we think we can add value to your project, then we’ll work you regardless of what industry your business is in. Our portfolio should give you a good idea of the types of industries we’ve worked with before."
+            },
+            {
+                "id": "6",
+                "faqTitle": "What are the criteria to select the Best Digital marketing company in Bangalore?",
+                "faqDescription": "Since there are numerous digital marketing firms that offer digital marketing, it can be difficult to choose the right digital marketing agency that matches your company’s needs. There are several factors you should consider when deciding which one is right for your needs. 1.Team size: It is possible to choose the ideal digital marketing agency by their size. Digital marketing firms that are either too large or too small aren’t the right match. 2.Reputation: The reputation of the digital marketing company is vital because one can trust the business based on their client reviews, testimonials and reviews, cases studies, stories of success and more. 3.Understanding capacity: It is essential to meet with the pros of the digital marketing business in person and gain an understanding of what is happening within their business."
+            },
+            {
+                "id": "7",
+                "faqTitle": "What can an agency for digital marketing improve your company's performance?",
+                "faqDescription": "Alongside SEO and SMM and content marketing, as well as PPC, and other services, we also provide mobile app development, web development Web design, UX/UI design, custom content creation and design services. We promote your company through numerous efficient digital marketing strategies as well as social media platforms such as Facebook, LinkedIn, Twitter, Pinterest, etc."
+            },
+            {
+                "id": "8",
+                "faqTitle": "What are the typical services provided by the top digital marketing Agency?",
+                "faqDescription": "Organic traffic is available at no cost. However, paid SEO services can be costly and will cease when the package expires. However, paid SEO services will bring more organic leads and traffic without failure."
+            },
+            {
+                "id": "9",
+                "faqTitle": "What processes are expected to follow by the top digital marketing firm?",
+                "faqDescription": "The top digital marketing companies will provide businesses growth strategies that are based on the needs of your business and begin advertising your business on social media sites. This can help you accelerate the growth of your business, and also increasing your sales and traffic organically."
+            },
+            {
+                "id": "10",
+                "faqTitle": "What's the future of marketing via digital channels?",
+                "faqDescription": "With as more than 99 percent of people on earth depend to the web, surely digital marketing will take over marketing world. The digital marketing industry is also adjusted to the latest market trends and meet all demands from traditional methods of optimization for search engines to artificial intelligence, Big Data, and more."
+            },
+            {
+                "id": "11",
+                "faqTitle": "What are the most current digital marketing trends for 2022?",
+                "faqDescription": "Modern digital marketing trends tend to focus on a particular segment of the target market and provide personalized online marketing solutions. The most effective strategies for 2022 that are still in the highest importance include Search Engine Marketing, Social Media Marketing, Content Marketing and Voice and Visual Search Engine Optimization Chatbots and Personalized Marketing video marketing, etc."
+            },
+            {
+                "id": "12",
+                "faqTitle": "Why should I opt for digital marketing companies?",
+                "faqDescription": "Bangalore is an Indian city that is diverse ethnicities and is referred to for its status as one of the Silicon Valley of India. The city is home to many consumer-facing brands, and an excellent exposure to highly regarded digital marketing firms and a thorough understanding of the behavior of brands. These factors indicate that digital marketing agencies located in Bangalore are likely to be more knowledgeable about consumer behavior, competition, etc."
+            },
+            {
+                "id": "13",
+                "faqTitle": "What is the primary goal of digital marketing within an organization?",
+                "faqDescription": "Any reputable SEO analyst will employ an ethical and transparent process that ensures your site is visible to nearly all search engines. SEO-friendly services play a crucial role in a digital marketing strategy to generate high-quality leads and boost sales."
+            },
+            {
+                "id": "14",
+                "faqTitle": "When do I have to refresh my website's web page's content?",
+                "faqDescription": "The content you update on your website is contingent on the sector your company is part of. It is essential to keep updating the content on your social media channels every day with new content, as well as special promotions to reach your intended viewers. Also, you should publish at least two blogs each week, based on the nature of your business to boost the number of visitors to your website."
+            },
+            {
+                "id": "15",
+                "faqTitle": "Does content marketing benefit my company?",
+                "faqDescription": "Yes. content marketing can be the most efficient method to attract prospective customers by creating original relevant, quality informational, constant content. Experts from SEO will help promote your blog posts, website content as well as other types of content. across a variety of social media platforms in order to grow your client base and improve the reputation of your brand."
+            },
+            {
+                "id": "16",
+                "faqTitle": "What is the reason Digital marketing necessary for your online company?",
+                "faqDescription": "Digital marketing can bring more high-quality visitors to your site, which will increase your leads and sales. Through the use of efficient methods of digital marketing, the majority of your site users will convert into leads. This helps build brand loyalty, advertising your brand and getting new customers."
+            },
+            {
+                "id": "17",
+                "faqTitle": "How will our Digital Marketing process function?",
+                "faqDescription": "Our digital marketing approach begins by evaluating the client’s business such as its strengths, weaknesses and strengths, and obtaining all the details about their intended audience, etc. Then, we analyze your competitors with various tools to identify what keywords they’re using as well as their presence on social media and more. to determine the most effective marketing plan for your business. We then begin optimizing your site with specific keywords. Finally, we develop backlinks, and regularly refresh your social media channels. We issue monthly or weekly reports to our clients. We also inquire whether their leads are of high quality in order to provide more effective results."
+            },
+            {
+                "id": "18",
+                "faqTitle": "Do I need an online blog to achieve the best outcomes in marketing via digital channels?",
+                "faqDescription": "Yes. Every business requires online marketing strategy that is easily accomplished with blogs. Because customers will ask many questions regarding your particular field and your business, you can provide the answer to their queries efficiently and in a appropriate manner through blogs. This helps build trust with your customers and encourages them to be more interested to buy items from your site."
+            },
+            {
+                "id": "19",
+                "faqTitle": "Does Local SEO draw more customers?",
+                "faqDescription": "Yes. Local SEO optimizes the content of your website according to the location in order to reach local customers. Our SEO experts develop the most effective strategies that will help you attract the local audience. Local SEO concentrates on a specific area rather than the entire county."
+            }
+        ],
+        "WhyChooseHirolaServices": {
+            "title": "Why Choose Hirola InfoTech As Your Digital Marketing Services Company in Bangalore",
+            "description": "Hirola InfoTech Internet Marketing Agency is an award-winning internet marketing company that provides goal-oriented advertising solutions. Our primary focus is to help businesses increase their client retention rate and maximize conversion opportunities",
+            "ourBestServices": [
+                {
+                    "id": "1",
+                    "title": "Data-driven Digital Marketing ",
+                    "description": "Research and data are essential parts of business success. Deliver the right message at the right time using the right platform with Hirola’s results-oriented digital marketing services. We analyze your brand’s strengths, weaknesses, opportunities and threats to create up-to-date metrics and generate actionable insights."
+                },
+                {
+                    "id": "2",
+                    "title": "Industry Experts",
+                    "description": "Hirola InfoTech is composed of digital marketing professionals who have more than 10 years of industry experience. We keep track of latest trends and innovations, develop goal-oriented strategies & ensure all our campaigns meet search engine guidelines. Whether you need support in integration, Shopify SEO or other, we help you."
+                },
+                {
+                    "id": "3",
+                    "title": "Competitive Pricing",
+                    "description": "Hirola InfoTech Digital Marketing Agency is a customer-centric digital marketing company. We shape our internet marketing services based on your industry demands, online needs and financial capacity. In this way, we help you acquire the online attention you need without breaking the bank. We also provide white label services that offer huge ROI for your SEO agency."
+                },
+                {
+                    "id": "",
+                    "title": "Omnichannel Personalization",
+                    "description": "Results of a RedPoint Global survey by The Harris Poll revealed that 63 percent of consumers expect personalized brand experiences as the standard of service. At Hirola InfoTech, we perform audience analyses and needs assessments to develop customized internet marketing strategies that drive more business. Omnichannel personalization increases your revenue and boosts brand loyalty."
+                },
+                {
+                    "id": "5",
+                    "title": "Campaign Monitoring and Evaluation",
+                    "description": "How do you know if the digital marketing services work for your firm? At Hirola InfoTech, we establish your campaign metrics and perform regular monitoring and evaluation to determine your strategies’ success. Using Google Analytics results, we adjust your online marketing tactics and improve your approach to audience targeting to put you in a stronger financial position."
+                },
+              
+                {
+                    "id": "6",
+                    "title": "Custom Digital Marketing Framework",
+                    "description": "Our internet marketing company takes a 360-degree approach to online marketing. We review your current marketing strategies and digital presence, set key performance indicators (KPIs), identify your brand personality and integrate your customer experience in all levels of your strategy-building. In doing so, we create a structured marketing framework that optimizes all your digital touchpoints."
+                }   
+            ]
+        },
+        "ourDigitalServices":{
+            "title":"HIROLA INFOTECH'S DIGITAL MARKETING SERVICES",
+            "description":"Our Business Is Built on a Foundation of Professional Excellence and Integrity.As a people-centric company, we maintain the highest standards of quality and integrity to ensure the success of our employees, partner agencies and the community in which we operate. Hirola InfoTech Solutions has heavily invested in the success of our clients. We only provide you with recommendations on services that can help improve your business. Our team is dedicated to helping your business grow.",
+        "servicesOffered":[
+            
+            {
+                "id":"1",
+                "description":"Amplify your market reach and improve your brand reputation with Hirola’s franchise SEO services. Our team creates a franchise marketing plan around your ideal prospects and service location. ",
+                "title":"Franchise SEO",
+                "slug":"search-engine-optimization",
+                "urlTitle":"Search Engine Optimization"
+            },
+            {
+                "id":"2",
+                "description":"Statistics show that 88 percent of consumers searching for local businesses online will call or visit a store within 24 hours.",
+                "slug":"search-engine-optimization",
+                 "urlTitle":"Search Engine Optimization",
+                "title":"Local SEO"
+            },
+            {
+                "id":"3",
+                "description":"Establish a strong online foundation with on-point technical SEO and internet marketing services.",
+                "slug":"search-engine-optimization",
+                 "urlTitle":"Search Engine Optimization",
+                "title":"Technical SEO"
+            },
+            {
+                "id":"4",
+                "description":"Acquire a steady stream of traffic from high-authority websites and increase your consumer trust.",
+                "slug":"search-engine-optimization",
+                 "urlTitle":"Search Engine Optimization",
+                "title":"Link Building"
+            },
+            {
+                "id":"5",
+                "slug":"search-engine-optimization",
+                 "urlTitle":"Search Engine Optimization",
+                "title":"Search Engine Optimization",
+                "description":"Through careful keyword research and white hat SEO practices, we can help you achieve higher organic rankings and increased visibility in search results."
+            },
+            {
+                "id":"6",
+                "description":"Hirola builds custom, mobile-ready and search engine optimized websites that help you meet your business objectives and support your digital marketing campaigns.",
+                "slug":"web-development",
+                 "urlTitle":"Web Development",
+                "title":" Web Design & Development"
+            },
+            {
+                "id":"7",
+                "description":"Capture your target audiences’ attention with a professional custom web design that highlights your business’ unique value propositions.",
+                "slug":"web-development",
+                "urlTitle":"Web Development",
+                "title":"Custom Website Design"
+            },
+            {
+                "id":"8",
+                "description":"Ready to expand and market to your audiences on social media? We build social media campaigns to help your business grow and engage your followers.",
+                "slug":"social-media-marketing",
+                 "urlTitle":"Social Media Marketing",
+                "title":" Social Media Marketing"
+            },
+            {
+                "id":"9",
+                "description":"Reach your customers quickly and with precision with a data-driven PPC campaign. Our PPC Specialists are AdWords certified, so you can rest easy knowing your campaign is in the hands of professionals. ",
+                "slug":"pay-per-click",
+                 "urlTitle":"Pay Per Click",
+                "title":"PPC"
+            },
+            {
+                "id":"10",
+                "description":"Video marketing is powerful and engaging when done right. Storytelling with video has the power to take your brand to the next level and increase your customer engagement by leaps and bounds.",
+                "slug":"video-marketing",
+                 "urlTitle":"Video Marketing",
+                "title":"Video Production"
+            },
+            {
+                "id":"11",
+                "description":"Your website’s content is crucial: it’s the foundation of your SEO and the reason many people visit your site. Entrust your content creation with Hirola, and we’ll write it with precision.",
+                "slug":"content-writing",
+                 "urlTitle":"Content Writing",
+                "title":" Content Writing"
+            },
+            {
+                "id":"12",
+                "description":"How many emails from businesses do you delete every day? Choose Hirola and let’s make your email marketing campaigns stand out and work for your business.",
+                "slug":"email-marketing",
+                 "urlTitle":"Email Marketing",
+                "title":"Email Marketing"
+            },
+            {
+                "id":"13",
+                "description":"Your reviews and online reputation can make or break your success online. Improve your reputation and reap the rewards with the help of our internet marketing agency.",
+                "slug":"online-reputation-management",
+                 "urlTitle":"Online Reputation Management",
+                "title":"Online Reputation Management"
+            },
+            {
+                "id":"14",
+                "description":"Getting found on Amazon is not easy! Competition is fierce and thick, so you need to find the right digital marketing company to strengthen your AMS strategy.",
+                "slug":"amazon-marketing",
+                 "urlTitle":"Amazon Marketing",
+                "title":"Amazon Marketing Services"
+            },
+            {
+                "id":"15",
+                "description":"The eCommerce industry generates 23 percent YoY in revenue. Take advantage of a whole range of opportunities in the eCommerce business to promote your products and offer round the clock convenience to your customers.",
+                "slug":"e-commerce-web-development",
+                 "urlTitle":"E-commerce Web  Development",
+                "title":"eCommerce Marketing"
+            },
+            {
+                "id":"16",
+                "description":"Getting visitors to your site is only half the battle. Conversion optimization ensures your site is primed to turn them into customers.",
+                "slug":"search-engine-optimization",
+                 "urlTitle":"Coming Soon",
+                "title":"Conversion Rate Optimization"
+            },
+           
+            {
+                "id":"17",
+                "description":"At Hirola, we understand the nuances of eCommerce web design. When you sell products online, the design of your website is crucial to its success.",
+                "slug":"e-commerce-web-development",
+                 "urlTitle":"E-commerce Web  Development",
+                "title":"eCom Web Design"
+            },
+            {
+                "id":"18",
+                "description":"You need a secure, trustworthy company to host your new website. Go with Hirola and you won’t have to worry about it.",
+                "slug":"search-engine-optimization",
+                 "urlTitle":"Coming Soon",
+                "title":"Web Hosting"
+            }
+        ]
+        }
+    }
+]

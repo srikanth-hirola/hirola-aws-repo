@@ -1,0 +1,51 @@
+[
+    {
+        "id":"1",
+        "image":"/images/aviation/mag-1.avif",
+        "textOne":"Venice",
+        "textTwo":"Italy",
+        "textThree":"Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+       
+    },
+    {
+        "id":"2",
+        "image":"/images/aviation/mag-2.jpg",
+        "textOne":"Amsterdam",
+        "textTwo":"The Nethardlands",
+        "textThree":"Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+       
+    },
+    {
+        "id":"3",
+        "image":"/images/aviation/mag-3.jpg",
+        "textOne":"Paris",
+        "textTwo":"France",
+        "textThree":"Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+       
+    },
+    
+    {
+        "id":"4",
+        "image":"/images/aviation/mag-4.png",
+        "textOne":"Rome",
+        "textTwo":"Italy",
+        "textThree":"Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+       
+    },
+    {
+        "id":"5",
+        "image":"/images/aviation/mag-2.jpg",
+        "textOne":"New York",
+        "textTwo":"USA",
+        "textThree":"Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+       
+    },
+    {
+        "id":"6",
+        "image":"/images/aviation/mag-3.jpg",
+        "textOne":"Italy",
+        "textTwo":"Italy",
+        "textThree":"Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+       
+    }
+]

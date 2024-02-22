@@ -1,0 +1,1148 @@
+
+// .main-slider-three .container {
+//     position: relative;
+//     padding-top: 338px;
+//     padding-bottom: 260px;
+//     z-index: 30;
+//   }
+  
+  .image-layer-three {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 650px;
+    background-repeat: repeat-x;
+    background-position: -1920px 100%;
+    z-index: -1;
+    animation: cloudMove 30s linear 0s infinite;
+    mix-blend-mode: luminosity;
+    opacity: 0.7;
+    @media #{$sm-layout}{
+      height: 650px !important;
+    }
+    @media #{$md-layout}{
+      height: 430px;
+    }
+    @media #{$lg-layout}{
+      height: 440px;
+    }
+  }
+  
+  @keyframes cloudMove {
+    0% {
+      background-position: -1920px 100%;
+    }
+  
+    100% {
+      background-position: 0 100%;
+    }
+  }
+  @media only screen and (min-width: 1450px) and (max-width: 1700px){
+  .main-slider-three__img img {
+    //   width: 100%;
+  }
+}
+.main-slider-three__img img {
+   
+    position: absolute;
+    right: -100%; /* Start the image outside the screen on the right */
+    animation: slideInRight 5s ease-in-out forwards,  float-bob-y 3s infinite linear;
+    @media #{$md-layout}{
+      width: 39%;
+      height: 221px;
+      object-fit: contain;
+      top: 113px;
+      left: 53%;
+  }
+    @media #{$sm-layout}{
+      width: 93% !important;
+      height: 221px;
+      object-fit: contain;
+      top: 113px;
+      left: 5%;
+  }
+  @media #{$lg-layout}{
+    top: 40%;
+  }
+  }
+  
+  @keyframes slideInRight {
+    0% {
+      right: -43%; /* Start position */
+    }
+    100% {
+      right: 10%; /* Final position, it will stop here */
+    }
+  }
+  
+  @keyframes float-bob-y {
+    0% {
+      transform: translateY(-20px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(-20px);
+    }
+  }
+  
+  .main-slider-three__img img {
+    width: 45%;
+    height: 221px;
+    object-fit: contain;
+  }
+  .main-slider-three .swiper-slide-active .main-slider-three__img {
+      opacity: 1;
+      -webkit-transform: translateX(0);
+      transform: translateX(0);
+      -webkit-transition-delay: 3000ms;
+      transition-delay: 3000ms;
+    //   -webkit-transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
+    //   transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
+    //   transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease;
+    //   transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
+  }
+//       Float Bob Y Animation Css
+//   =============================================
+//   ***/
+  @-webkit-keyframes float-bob-y {
+    0% {
+      transform: translateY(-20px);
+    }
+  
+    50% {
+      transform: translateY(-10px);
+    }
+  
+    100% {
+      transform: translateY(-20px);
+    }
+  }
+  
+  @keyframes float-bob-y {
+    0% {
+      transform: translateY(-20px);
+    }
+  
+    50% {
+      transform: translateY(-10px);
+    }
+  
+    100% {
+      transform: translateY(-20px);
+    }
+  }
+  
+  .float-bob-y {
+    -webkit-animation-name: float-bob-y;
+    animation-name: float-bob-y;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+  }
+  .main-slider-three__content {
+      position: relative;
+      display: block;
+      @media #{$sm-layout}{
+        top: 120px;
+      }
+  }
+
+.av-banner{
+    min-height: 750px;
+    display: flex;align-items: center;
+
+    width: 100% !important;
+    @media #{$sm-layout}{
+      width: 100% !important;
+      min-height: 680px !important;
+    }
+    @media #{$md-layout}{
+      min-height: 488px;
+    display: flex;
+    align-items: center;
+    width: 100% !important;
+    }
+    @media #{$lg-layout}{
+      min-height: 488px;
+    display: flex;
+    align-items: center;
+    width: 100% !important;
+    }
+}
+// banner stylings goes here
+.banner-aviation{
+    min-height:450px;
+    margin-bottom: 80px;
+}
+h6.banner-av-title {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 15px;
+  letter-spacing: -3px;
+  background: linear-gradient(90deg, rgb(255, 116, 37) 8%, rgb(0, 0, 0) 83%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(0, 0, 0, 0);
+  @media #{$sm-layout}{
+    text-align: left !important;
+    width: 100%;
+    font-size: 25px;
+    letter-spacing: 0px;
+  }
+}
+.main-slider-three__btn-box{
+  a{
+    @media #{$sm-layout}{
+      font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.04em;
+    padding: 18px 24px;
+    }
+  }
+}
+h2.main-slider-three__title {
+  @media #{$sm-layout}{
+    text-align: left;
+  }
+}
+p.banner-av-desc {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+  margin: 30px auto;
+  line-height: 26px;
+  color: #000;
+  font-weight: 400;
+  @media #{$sm-layout}{
+    width: 100%;
+  }
+}
+
+p.banner-av-desc {}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* 6 items per row */
+    grid-gap: 20px; /* Adjust spacing between items */
+    @media #{$sm-layout}{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    @media #{$md-layout}{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    @media #{$lg-layout}{
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+  
+  .grid-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    cursor: pointer;
+    background-color: #fff; /* Background color for each card */
+    border-radius: 8px; /* Rounded corners for cards */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect for cards */
+    transform: translateY(20px); /* Start with cards slightly below */
+    transition: transform 0.2s ease-in-out, opacity 0.2s step-end;
+    @media #{$sm-layout}{
+      width: 100% !important;
+      margin: auto;
+    }
+    @media #{$md-layout}{
+      width: 31%;
+    }
+  }
+  
+  .item-icon {
+    width: 64px; /* Adjust icon size as needed */
+    height: 64px; /* Adjust icon size as needed */
+  }
+  
+  .item-text {
+    margin-top: 10px; /* Adjust spacing between icon and text */
+    font-size: 16px; /* Adjust text size as needed */
+    font-weight: bold; /* Add desired font-weight */
+    text-align: center;
+    background: linear-gradient(90deg, rgb(255, 116, 37) 8%, rgb(0, 0, 0) 83%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+  }
+  .slider-container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .slider-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff; /* Background color for each card */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect for cards */
+    padding: 20px;
+    margin: 0 10px;
+    min-height: 200px; /* Adjust the card height as needed */
+    text-align: center;
+    font-size: 20px; /* Adjust text size as needed */
+    @media #{$sm-layout}{
+      padding: 0;
+      margin: 0;
+    }
+  }
+  .slick-list .slick-slide{
+    @media #{$sm-layout}{
+      padding: 0;
+    }
+  }
+ .sl-ig{
+      display: block;
+      filter: invert(7) brightness(14.5);
+  }
+
+  
+//   slider one staarts here
+
+.client-section {
+  overflow: hidden;
+  position: relative;
+}
+.client-section .client-element {
+  position: absolute;
+  top: 58%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+}
+
+.client-item {
+  padding: 0 30px 30px 30px;
+  position: relative;
+  border-radius: 10px;
+  z-index: 2;
+}
+@media only screen and (max-width: 1199px) {
+  .client-item {
+    padding: 0 20px 20px 20px;
+  }
+}
+.client-item::before {
+  position: absolute;
+  content: '';
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: calc(100% - 35px);
+//   background-color: white;
+//   box-shadow: 0 10px 10px rgba(50, 73, 179, 0.08);
+  border-radius: 10px;
+  z-index: -1;
+}
+
+.client-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.client-thumb {
+  height: 125px;
+  visibility: hidden;
+}
+.client-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.client-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 20px;
+}
+
+.client-footer-left .title {
+  font-weight: 500;
+  
+  font-size: 20px;
+  text-align: left;
+  margin-bottom: 7px;
+  @media #{$lg-layout}{
+    font-size: 18px;
+  }
+}
+.client-footer-left {
+  span{
+    @media #{$lg-layout}{
+      font-size: 16px;
+    }
+  }
+}
+.client-content p{
+    text-align: left;
+}
+@media only screen and (max-width: 991px) {
+  .client-footer-left .title {
+    font-size: 18px;
+  }
+}
+
+.client-footer-right .ratings i {
+  color: #FFA200;
+  font-size: 14px;
+}
+@media only screen and (max-width: 1199px) {
+  .client-footer-right .ratings i {
+    font-size: 12px;
+  }
+}
+
+.client-slider-wrapper {
+  margin: -20px;
+}
+
+.client-slider {
+  overflow: hidden;
+  padding: 20px;
+}
+
+.client-right-thumb {
+  position: relative;
+}
+.client-right-thumb img {
+  width: 100%;
+  @media #{$md-layout}{
+    height: 450px;
+    display: none;
+  }
+}
+.client-right-thumb .client-thumb-overlay {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.client-right-thumb .client-thumb-overlay .waves {
+  border: 1px solid white;
+}
+.client-right-thumb .client-thumb-overlay .video-icon {
+  background-color: white;
+  font-size: 30px;
+}
+
+.client-slider-two {
+  overflow: hidden;
+}
+@media only screen and (max-width: 991px) {
+  .client-slider-two {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+.client-slider-two .client-item {
+  background-color: white;
+  border: none;
+  padding: 15px 20px 20px 20px;
+}
+.client-slider-two .client-quote {
+  color: #E8E9EA;
+  font-size: 40px;
+  line-height: 40px;
+  margin-bottom: 20px;
+}
+.client-slider-two .client-content {
+  padding: 0;
+}
+.client-slider-two .client-content p {
+  color: #3d3d3d;
+  font-size: 14px;
+}
+.client-slider-two .client-footer {
+  align-items: center;
+  background-color: transparent;
+  padding: 0;
+  border-top: 1px dashed #e5e5e5;
+  padding-top: 10px;
+  margin-top: 10px;
+  transition: all 0.5s;
+}
+.client-slider-two .client-footer .ratings i {
+  color: #dcbb87;
+  font-size: 12px;
+}
+.client-slider-two .client-post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.client-slider-two .client-post-meta .name {
+  padding-left: 15px;
+  color: #19232d;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.dark .client-item::before {
+  background-color: #1F2E3C;
+}
+.dark .client-item .client-content p {
+  color: #dfdfdf;
+}
+.dark .client-item .client-footer-left .title {
+  color: white;
+}
+.dark .client-item .client-footer-left .sub-title {
+  color: #dfdfdf;
+}
+
+
+// about section starts here
+.we-fly {
+  position: relative;
+  display: block;
+  background-image: -moz-linear-gradient(180deg, rgb(167, 145, 50) 0%, rgb(18, 56, 33) 51%);
+  background-image: -webkit-linear-gradient(180deg, rgb(167, 145, 50) 0%, rgb(18, 56, 33) 51%);
+  background-image: -ms-linear-gradient(180deg, rgb(167, 145, 50) 0%, rgb(18, 56, 33) 51%);
+  padding: 114px 0 120px;
+  z-index: 1;
+}
+
+.we-fly-bg-box {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 73.3%;
+  background-image: -moz-linear-gradient(180deg, rgb(167, 145, 50) 0%, rgb(18, 56, 33) 51%);
+  background-image: -webkit-linear-gradient(180deg, rgb(167, 145, 50) 0%, rgb(18, 56, 33) 51%);
+  background-image: -ms-linear-gradient(180deg, rgb(167, 145, 50) 0%, rgb(18, 56, 33) 51%);
+  z-index: -1;
+}
+
+.we-fly__bg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  mix-blend-mode: soft-light;
+  opacity: .40;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.we-fly-bg-box:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 377px;
+  content: "";
+  background-image: -moz-linear-gradient(180deg, rgba(18, 56, 33, 0) 0%, rgb(18, 56, 33) 100%);
+  background-image: -webkit-linear-gradient(180deg, rgba(18, 56, 33, 0) 0%, rgb(18, 56, 33) 100%);
+  background-image: -ms-linear-gradient(180deg, rgba(18, 56, 33, 0) 0%, rgb(18, 56, 33) 100%);
+  z-index: 1;
+}
+
+.we-fly .container {
+  position: relative;
+}
+
+.we-fly__badge {
+  position: absolute;
+  top: 0;
+  right: 185px;
+  animation: fa-spin 5s ease infinite;
+  display: none;
+}
+
+@media (min-width: 1200px) {
+  .we-fly__badge {
+    display: block;
+  }
+}
+
+.we-fly__left {
+  position: relative;
+  display: block;
+}
+
+.we-fly__title {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 52px;
+  color: var(--jetly-white);
+  letter-spacing: -.04em;
+}
+
+.we-fly__count {
+  position: relative;
+  display: inline-block;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: var(--jetly-font) !important;
+  line-height: 52px !important;
+}
+
+.we-fly__count:before {
+  position: absolute;
+  bottom: 0px;
+  left: -9px;
+  height: 10px;
+  width: 155px;
+  content: "";
+  background-image: url(https://jetly-html.vercel.app/main-html/assets/images/shapes/we-fly-count-shape-1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.we-fly__title .odometer-formatting-mark {
+  display: none;
+}
+
+.we-fly__text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 36px;
+  color: var(--jetly-white);
+  opacity: .60;
+  padding-top: 30px;
+  padding-bottom: 38px;
+}
+
+.we-fly__btn-boxes {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.we-fly__btn-one {
+  background-color: var(--jetly-base);
+}
+
+.we-fly__btn-one:hover {
+  color: var(--jetly-base);
+}
+
+.we-fly__btn-one:before {
+  background-color: var(--jetly-white);
+}
+
+.we-fly__btn-two {
+  background-color: var(--jetly-white);
+  color: var(--jetly-black);
+  margin-left: 10px;
+}
+
+.we-fly__btn-two:before {
+  background-color: var(--jetly-base);
+}
+
+.we-fly__btn-two:hover {
+  color: var(--jetly-white);
+}
+
+/*--------------------------------------------------------------
+# Charters
+--------------------------------------------------------------*/
+.charters {
+  position: relative;
+  display: block;
+  padding: 120px 0 90px;
+}
+
+.charters__single {
+  position: relative;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.charters__img {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  background-color: var(--jetly-black);
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.charters__img img {
+  width: 100%;
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.charters__single:hover .charters__img img {
+  transform: scale(1.05);
+  opacity: .5;
+}
+
+.charters__content {
+  position: relative;
+  display: block;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, 0.07);
+  padding: 23px 40px 40px;
+}
+
+.charters__date {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 22px;
+  color: var(--jetly-base);
+  letter-spacing: 0.1em;
+}
+
+.charters__title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 34px;
+}
+
+.charters__title a {
+  color: var(--jetly-black);
+  -webkit-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.charters__title a:hover {
+  color: var(--jetly-base);
+}
+
+.charters__text {
+  position: relative;
+  display: block;
+  padding-top: 12px;
+  padding-bottom: 20px;
+}
+
+.charters__btn {
+  background-color: var(--jetly-base);
+  font-size: 12px;
+  font-weight: 700;
+  padding: 6px 29px 4px;
+}
+
+.charters__btn:before {
+  background-color: var(--jetly-black);
+}
+
+
+
+// Avaition serction two starts here
+.ab-sec-columns {
+  margin: 2px 0px 2px;
+  padding-right: 2px !important;
+  padding-left: 2px !important;
+}
+#av-ab-sec-two{
+  min-height: fit-content;
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #ffffff36;
+  background: linear-gradient(90deg, rgb(255, 116, 37) 8%, rgb(0, 0, 0) 83%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(0, 0, 0, 0);
+  padding: 50px 0px;
+  @media #{$sm-layout}{
+    padding: 0px 10px;
+  }
+  h2{
+    font-size: 36px;
+    padding: 30px 0px;
+    @media #{$sm-layout}{
+      font-size: 22px;
+      padding: 0;
+    }
+  }
+}
+.ab-sec {
+  /* box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px; */
+  padding: 10px 15px;
+  background: #ffffff9c;
+  /* box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px; */
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 25px;
+  .ab-sec-image{
+    img{
+      width: 110px;
+      height: 110px;
+      padding: 18px;
+    }
+  }
+  .ab-sec-text{
+    h6{
+      font-size: 24px;
+    line-height: 31px;
+    margin-bottom: 10px;
+    // color: #000 !important;
+    background: linear-gradient(90deg, rgb(255, 116, 37) 8%, rgb(0, 0, 0) 83%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+    @media #{$sm-layout}{
+      font-size: 22px;
+    }
+    }
+    p{
+      background: linear-gradient(90deg, rgb(0 0 0) 8%, rgb(0, 0, 0) 83%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: rgba(0, 0, 0, 0);
+    }
+  }
+}
+.banner-aviation {
+  opacity: 1; /* Initially hide the component */
+  transform: translateY(0px); /* Optionally, you can add a transition for smooth appearance */
+  transition: opacity 0.5s, transform 0.5s;
+}
+
+.banner-aviation.visible {
+  opacity: 1; /* Make the component visible */
+  transform: translateY(0); /* Reset transform to its default position */
+}
+#aviation-logo {
+  height: 250px;
+  display: flex;
+  align-items: center;
+  margin: 90px 0px;
+}
+.elementor-background-overlay {
+  background-color: #89999B;
+  opacity: 0.6;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.cl-title{
+  color: #fff;
+  background: transparent;
+  -webkit-text-fill-color: #fff;
+}
+#aviation-section-four{
+  background: url(https://hirolainfotech.com/images/aviation/slide-bg.avif);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 80px;
+  margin: 50px 0px;
+  background-attachment: fixed;
+  background-position-x: right;
+}
+.sub-sec-four {
+  min-height: 800px;
+  display: flex;
+  align-items: center;
+  @media #{$sm-layout}{
+    min-height: 650px;
+  }
+
+}
+.sub-four-text{
+  h6{
+    font-size: 30px;
+    color: #fff;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 2px;
+    @media #{$sm-layout}{
+      font-size: 24px;
+      color: #fff;
+      font-weight: 500;
+      text-align: center;
+      margin-bottom: 18px;
+    }
+  }
+  p{
+    color: #fff;
+    font-size: 46px;
+    text-align: center;
+    font-weight: 600;
+    // margin-bottom: 2px;
+    @media #{$sm-layout}{
+      color: #fff;
+    font-size: 29px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 34px;
+    }
+  }
+}
+/* Style for the "destination-item" container */
+.destination-item {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Style for the overlay on hover */
+
+.destination-item::before {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.destination-item:hover::before {
+  opacity: 1;
+}
+
+/* Style for the "hover-content" */
+
+
+.hover-content {
+    position: absolute;
+    bottom: 0%;
+    left: 0;
+    top: 0;
+    right: 0;
+    padding: 0px;
+    background-color: #00000080;
+    color: #fff;
+    width: 100%;
+    transform: translateY(17%);
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    opacity: 0;
+}
+
+.destination-item:hover .hover-content {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+/* Style for the "Rest of the content" */
+
+.content-bottom {
+    position: absolute;
+    bottom: 29%;
+    left: 0;
+    right: 0;
+    background-color: transparent;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.destination-item:hover .content-bottom {
+  opacity: 1;
+}
+.destination-item img{
+  display: block;
+    object-fit: contain;
+    width: 100%;
+    height: 412px;
+}
+.content-bottom ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.content-bottom h2{
+  color: #fff;
+  font-size: 36px;
+  margin-bottom: 0;
+}
+/* Style for individual meta items */
+.content-bottom ul li {
+  font-size: 16px; /* Adjust font size as needed */
+  margin-bottom: 5px; /* Space between meta items */
+}
+.content-bottom ul li a{
+  color: #fff;
+  font-size: 18px;
+}
+/* Style for the map marker icon */
+.content-bottom .meta-destination i.fa-map-marker {
+  margin-right: 5px; /* Space to the right of the icon */
+}
+
+/* Style for the tour icon */
+.content-bottom .meta-tour i.tour-icon {
+  margin-right: 5px; /* Space to the right of the icon */
+}
+
+
+#av-indu-expiry{
+  margin: 60px 0px 77px;
+  width: 100%;
+  min-height: 770px;
+  background-image: url(https://intravel.sdemo.site/wp-content/uploads/2016/10/image-bg-post-home6.jpg?id=1398) !important;
+  background-position: center ;
+  background-repeat: no-repeat ;
+  background-size: cover ;
+  background-attachment: fixed;
+}
+.main-expiry {
+  position: relative;
+}
+.expiry-text {
+  min-height: 334px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  h6{
+    color: #ffffff;
+    font-size: 48px;
+    font-family: Poppins;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -2px;
+    margin-bottom: 10px;
+  }
+  span{
+    font-weight: 600;
+  }
+  img{
+
+
+      margin: 16px 0px;
+  }
+  p{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+}
+  
+}
+.expiry-slider {
+  background: #fff;
+  padding: 20px;
+  position: absolute;
+  width: 85%;
+  top: 40%;
+  min-height: 531px;
+  .expiry-slider-data {
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    min-height: 430px;
+}
+}
+// Avaition serction two starts here
+
+
+/* Modal styles */
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  // background-color: rgba(0, 0, 0, 0.7);
+  z-index: 5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  max-width: 40%;
+  text-align: center;
+  position: relative;
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  width: 50px;height: 50px;
+  font-size: 40px;
+}
+
+
+// aviation type section starts here
+#avaition-types-new{
+  display: none;
+}
+#avaition-types{
+  // display: none;
+  @media #{$sm-layout}{
+    // display: none;
+  }
+  padding-bottom: 60px 0px 100px;
+  h2{
+    font-size: 36px;
+    background: linear-gradient(90deg, rgb(255, 116, 37) 8%, rgb(0, 0, 0) 83%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+  }
+  .aviation-img {
+    a{
+     img{
+       width: 80%;
+     }
+    }
+ }
+}
+
+ 
+      .av-sec-one1{
+        @media #{$md-layout}{
+            display: none !important;
+          }
+        }
+        .av-sec-two2{
+          @media #{$md-layout}{
+            width: 100%;
+          }
+        }
+        .css-1sn4lm3-MuiTypography-root {
+        display: none;
+      }
+      .css-1f5ro5o-MuiButtonBase-root-MuiButton-root{
+        background: var(--gradient-button);
+      }
+      .css-1mb437k-MuiButtonBase-root-MuiButton-root{
+        border: 1px solid rgb(101 46 15) !important;
+        color: #ff7325 !important;
+      }
+
+// aviation type section starts here
+.banner-aviation {
+  // Your existing styles for the main container
+
+  .modal {
+    position: fixed;
+    max-width: 550px; // Set the desired width
+    // background: #fff;
+    // border: 1px solid #ccc;
+    padding: 20px;
+    // box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    // transform: translate(-50%, -50%); // Center the modal
+
+    &.active {
+      display: block;
+    }
+
+    &-content {
+      // Your styles for the modal content
+    }
+  }
+}

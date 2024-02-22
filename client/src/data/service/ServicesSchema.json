@@ -1,0 +1,268 @@
+[
+    {
+    "mainImage": "/images/banner/11.png",
+    "image": "/images/icon/branding.png",
+    "title": "Branding",
+    "metaTitle":"title",
+    "metaDescription":"description",
+    "urlTitle":"Branding",
+    "description": "description",
+    "descriptionSecond": "description",
+    "descriptionThree": "description",
+    "cate": "Design",
+    "new": "Branding",
+    "aboutUs": {
+        "title": "title",
+        "description": "description"
+    },
+    "strategy": [
+        {
+            "id": "1",
+            "title": "Our Team",
+            "description": "We are a digital marketing agency located in Bangalore with an innovative, talented team of experts. Our technical team is responsible for SEO, SMO, web design and more. Our creative team is responsible for design, content, as well as social media interactions. Both teams are able to work together to assist any company we collaborate with."
+        },
+        {
+            "id": "2",
+            "title": "Our Achievements",
+            "description": "Why ask us ...? Our vast client list includes brands like Prodigy Asset, Century, Mahaveer, Nxtgen Bangalore NU Hospitals and other very famous names. Our clients are extremely satisfied by the marketing solutions that we offer and are awed by how their brands are being promoted through the digital space."
+        },
+        {
+            "id": "3",
+            "title": "Pocket Friendly Packages",
+            "description": "The Top Digital marketing agency in Bangalore and yet we have the most appealing and affordable packages that will fit your company's needs and type of marketing needs you'll need. You only pay for the services you specifically request."
+        }
+    ],
+    "WhyHirolaServices": {
+        "title": "Whats'S Includes In Our  Branding Services?",
+        "description": "Branding Services develop perceptions that correspond to reality over time, creating the brand’s name that’s easily recognised, friendly and trustworthy. We tell compelling stories with the brand you represent, setting customers’ expectations and shaping their choices.What are the characteristics that define you or your business’s place in the marketplace?  A Brand! A brand is the thing that determines your company, you or product on the market. It’s made by utilising creativity and strategies to inform prospective customers all about your company. Hirola believes that creating an identity for your brand is each company’s primary goal. Your brand defines how people perceive your business and the products it offers. The brand identity comprises various elements, including the web site and social media, logos banners, brochures and brochures all. Hirola has some of the top branding experts who will create your brand’s digital identity using their vast experience and expertise, helping to boost the growth of your business.",
+        "servicesProvided": [
+            {
+                "id": "1",
+                "title": "title",
+                "description": "description"
+            },
+            {
+                "id": "2",
+                "title": "Brand Messaging ",
+                "description": "description"
+            },
+            {
+                "id": "3",
+                "title": "Brand Positioning ",
+                "description": "description"
+            },
+            {
+                "id": "4",
+                "title": "Brand Voice",
+                "description": "description"
+            },
+            {
+                "id": "5",
+                "title": "Style Guide",
+                "description": "description"
+            },
+            {
+                "id": "6",
+                "title": "Social Media Branding ",
+                "description": "description"
+            }
+        ]
+    },
+    "designProcess": {
+        "title": "Our Process Things Simple",
+        "description": "description",
+        "designSteps": [
+            {
+                "id": "1",
+                "image": "/images/others/process-1.png",
+                "stepOne": "Step One",
+                "stepTwo": "Research ",
+                "stepThree": "Research is essential to examine the current position of the brand and investigate which direction the brand should go in to maximize its potential.The research does not often result in an epiphany for the brand."
+            },
+            {
+                "id": "2",
+                "image": "/images/others/process-2.png",
+                "stepOne": "Step Two",
+                "stepTwo": "Developing ",
+                "stepThree": "Developing a brand strategy takes a combination of rational thinking and creative imagination to create a strategy that works for the company internally and for its customers externally ( targeted audience )."
+            },
+            {
+                "id": "3",
+                "image": "/images/others/process-3.png",
+                "stepOne": "Step Three",
+                "stepTwo": "Designing ",
+                "stepThree": "The design process begins by creating a logo, which will become the graphical representation of the brand. Colours, fonts, shapes and icons are all considered to create something unique, eye-catching and illustrative of the brand."
+            },
+            {
+                "id": "4",
+                "image": "/images/others/process-4.png",
+                "stepOne": "Step Four",
+                "stepTwo": "Touchpoints ",
+                "stepThree": "This stage involves taking the identity created in stage 3, and developing it over a range of touchpoints, which are essentially any point of contact between a business and its customers(Targeted Audiences). "
+            },
+            {
+                "id": "5",
+                "image": "/images/others/process-5.png",
+                "stepOne": "Step Five",
+                "stepTwo": "Managing ",
+                "stepThree": "Managing your brand identity assets requires a long-term commitment from company owners to build and maintaining the brand. To make a brand a success, it requires ongoing monitoring and input. "
+            }
+        ]
+    },
+    "moreServices": {
+        "title": "title",
+        "descriptionTwo": "description",
+        "description": "description",
+        "descriptionThree": null,
+        "bodyOne": [
+            "<h4 class='title mb--30'>title</h4>",
+            "<p>description</p>",
+            "<ol><li><h5>title</h5><p>description</p></li></ol>",
+            "<h4 class='title mb--30'>title</h4>",
+            "<p>description</p>",
+            "<ol><li><h5>title</h5><p>description</p></li></ol>"
+        ],
+        "bodyTwo": [
+            "<h4 class='title mb--30'>title</h4>",
+            "<p>Your brand image is similar to your brand identity in that it deals with how your brand is perceived. However, whereas your brand identity is how you want your brand to be perceived, brand image is how your brand is actually perceived. Consider your brand image as the reputation you currently have with the general public. Take for example United Airlines. Not long ago, they updated their brand design in an attempt to strengthen their brand identity as a “thoughtful, modern, and innovative airline.” However, their brand identity and brand image are currently quite different from each other after numerous massive PR failures regarding their customer service. Keeping that in mind, the following are a few ways to build and maintain a positive brand image: </p>",
+            "<ol><li><h5>Spread your message via PR</h5><p>Use public relations to spread your key messages as well as relevant news concerning your company. You can do this through news outlets, trade publications, and even online blogs. Public relations will help you raise awareness of your brand and what you’re doing, thereby helping to improve your brand image.</p><li><h5>Establish a social presence</h5><p>Social media is an incredibly effective way to build your brand image, whether it’s by sharing content with consumers, keeping consumers up to date on the latest news and product launches, spreading awareness of your message, and engaging with consumers on a personal level. In fact, you can even use social media to address negative comments. It’s a good way to repair potential damage done to your brand image as a result of a poor customer experience by showing that you care and trying to correct the situation.</p><li><h5>Create high-quality content</h5><p>Content will help to increase brand awareness by bringing in more web traffic. However, it can also help to build your brand authority. By publishing content that is relevant to your company and to your audience (and that’s of high quality), you’ll become a trustworthy source of information, which — in turn — will help improve your reputation and increase brand trust.</p></ol>",
+            "<p>A brand that is positive will contribute to steady growth in referrals, sales and retention of customers. Every marketing campaign begins by identifying the customers you want to reach, creating an identity, creating the mission statement or vision statement, describing the USP and positioning it against other brands and highlighting the advantages of the brand. </p>",
+            "<h4 class='title mb--30'>Brand Personality</h4>",
+            "<p>Your brand personality refers to the human characteristics that your company has. Developing a brand personality is vital to connecting with your audience on an emotional level and for making your brand relatable. Because of this, make sure that you use the following tips to develop your brand personality: </p>",
+            "<ol><li><h5>Learn who your audience is</h5><p>Understanding your audience is something that you need to do from the very beginning. It’s an important step in building your brand identity as well. However, it’s particularly important when it comes to developing your brand personality. The way you present yourself and the way that you communicate should reflect not only who the audience is but what they expect. For example, if you have a younger audience, then a dry, formal tone may not resonate with them. However, if your audience is older, using younger slang and current pop culture references may go over their heads.</></li><li><h5>Engage with your audience</h5><p>While you can get your personality across in the content you write, it’s easier to do through engaging with people. It’s why using social media is so important. Your entire audience sees your interactions and it helps establish your personality a certain way. For example, Wendy’s has a reputation for having a playful personality because of their use of humor and the pretend feuds that they get into with other brands on Twitter. </></li><li><h5>Be consistent in tone</h5><p>If you’re going to be funny and informal on one platform, you need to make sure that personality carries over to all of the other platforms you use, both online and offline. If you’re inconsistent, it will hurt your ability to develop a cohesive brand personality, which will only confuse your audience.</></li></ol>",
+            "<p>These are the four main brand components that you will need to address when developing your brand strategy. A strong brand requires a strong brand identity, brand image, brand culture, and brand personality. Implementing a successful brand strategy that develops all four of these components increases brand trust, loyalty, and awareness. </p>",
+            "<p>We are Completely Experts in Brand Services. Contact us for more info. </p>"
+        ]
+    },
+    "ServiceInformation": {
+        "title": "Why Hirola Digital Marketing Services are Extraordinary!",
+        "serviceInformationData": [
+            {
+                "id": "1",
+                "title": "Brand Identity",
+                "description": "description"
+            },
+            {
+                "id": "2",
+                "title": "Identify your mission",
+                "description": "description"
+            },
+            {
+                "id": "3",
+                "title": "Establish your unique value proposition",
+                "description": "description"
+            },
+            {
+                "id": "4",
+                "title": "Omnichannel Personalization",
+                "description": "description"
+            },
+            {
+                "id": "5",
+                "title": "Increase brand recognition",
+                "description": "description"
+            },
+            {
+                "id": "6",
+                "title": "Brand Culture",
+                "description": "description"
+            },
+            {
+                "id": "7",
+                "title": "Define your values",
+                "description": "description"
+            },
+            {
+                "id": "8",
+                "title": "Spread awareness of your values",
+                "description": "description"
+            },
+            {
+                "id": "9",
+                "title": "Ensure your company reflects your values",
+                "description": "description"
+            },
+            {
+                "id": "10",
+                "title": "Brand Image",
+                "description": "description"
+            },
+            {
+                "id": "11",
+                "title": "Spread your message via PR",
+                "description": "description"
+            },
+            {
+                "id": "12",
+                "title": "Establish a social presence",
+                "description": "description"
+            },
+            {
+                "id": "13",
+                "title": "Create high-quality content",
+                "description": "description"
+            },
+            {
+                "id": "14",
+                "title": "Brand Personality",
+                "description": "description"
+            },
+            {
+                "id": "15",
+                "title": "Learn who your audience is",
+                "description": "description"
+            },
+            {
+                "id": "16",
+                "title": "Engage with your audience",
+                "description": "description"
+            },
+            {
+                "id": "17",
+                "title": "Be consistent in tone",
+                "description": "description"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Logo Designing FAQ’s",
+        "faqData": [
+            {
+                "id": "1",
+                "title": "What is the cost of package design?",
+                "description": "Idescription"
+            },
+            {
+                "id": "2",
+                "title": "How long does package design take?",
+                "description": "description"
+            },
+            {
+                "id": "3",
+                "title": "What will you get in the final package?",
+                "description": "description"
+            },
+            {
+                "id": "4",
+                "title": "Is it possible to assign more than one SKU to a project?",
+                "description": "description"
+            },
+            {
+                "id": "5",
+                "title": "Can you accept revisions?",
+                "description": "description"
+            },
+            {
+                "id": "6",
+                "title": "How can we decide on the final packaging material?",
+                "description": "description"
+            },
+            {
+                "id": "7",
+                "title": "Are we required to make an upfront payment of the full price?",
+                "description": "description"
+            }
+        ]
+    }
+}
+]

@@ -1,0 +1,250 @@
+[
+   
+   {
+      "metaTitle":"Discover the Best HR & Payroll Management System Software | Streamline Your HR Processes",
+      "metaDescription":"Streamline your HR processes with the best HR & Payroll Management System Software. Simplify payroll management, track employee attendance, manage leave requests, and automate HR tasks effortlessly.",
+      "banner": {
+         "title": "Best HR & Payroll Management System Software For Your Institution!",
+         "description": "HR operations may be streamlined like never before, from onboarding to offboarding and all in between.",
+         "bannerImg": "/images/products/payroll.avif"
+      },
+      "about": {
+         "title": "   HR & Payroll Management System Software",
+         "descriptionOne": "In an educational organization, the accounts department performs various activities such as payroll processing, maintaining salary details of every employee, keeping track of deduction, and installment details, etc. Whereas, the establishment section maintains a record of employee's all basic information like personal details (name, address, birth date, etc), service date details (joining date, increment date, etc.), bank details, pay scale, basic, and grade pay, etc.",
+         "descriptionTwo": "Accounts and establishment departments work together to calculate leave and leave without pay (LWP) of all employees, and then process the salary. It takes effort, time, and resources to carry out the entire procedure on a monthly basis. HR Payroll Management Software is a highly beneficial solution for organizations or educational institutions struggling with such problems."
+      },
+      "aboutPayRoll": {
+         "Image": "/images/products/payroll.avif",
+         "body": [
+            "<p>A payroll management system is an online solution that helps the institutes to pay salaries to the faculty members working there. It is a way how they show their commitment to the faculty in form of benefits, appraisals, and paid leaves. It enables them to fulfill their obligations as stated by the government and keep financial records in order.</p>",
+            "<p>The payroll management system is a solution that enables automation of the process for employers to pay wages to their employees. It is also a way of showing their commitment to the employees, keeping data of the financial transactions, and fulfilling obligations to the government agencies.</p>",
+            "<p>MasterSoft HR & Payroll Management Software eases the hassles of managing vast amounts of data by making the employee or faculty management & payroll processing easier. This human resource management software streamlines all the payroll-related operations and enables the administrator to pay on-time & accurate amounts of salary to all the employees working in the educational institution.</p>",
+            "<p>It can be further integrated with the Faculty Management System for conducting online staff recruitment procedures. School administrators can manage vacancies, post jobs, filter out eligible candidates as per their merit & eligibility parameters and hire the best one to boost the educational offerings & services. With an inbuilt BI & AI-powered analytics dashboard, the performance of each staff member can be tracked & monitored on a continuous basis- daily/weekly/monthly/yearly. These performance records can prove to be a “fair judgement metrics” during appraisals. All-in-all, it is a comprehensive, tested, and reliable solution for managing faculty & staff and meeting the requirements of the HR department in educational institutions especially the ones running Multi-Academy Trusts (MATs).</p>",
+            "<p></p>"
+         ]
+      },
+      "howItWorks": {
+         "title": "How Does HR & Payroll Software Works?",
+         "description": "With MasterSoft's AI-powered applicant tracking system (ATS), also known as recruiting software designed for high-performing SMBs and startups, you can automate your talent acquisition process like a pro. Create strong talent pipelines and keep track of every applicant during the hiring process.",
+         "howItWorksData": [
+            {
+               "id": "1",
+               "title": "Pre-Payroll",
+               "icon": "",
+               "description": "Getting along with other departments and payroll is frequently a crucial component of the payroll process. Ensuring policies are well-defined and signed off by the company’s management for the establishment of payroll processing."
+            },
+            {
+               "id": "2",
+               "title": "Actual Payroll",
+               "icon": "icon",
+               "description": "The input of data into the payroll system to carry out the actual processing occurs at this stage in the payroll process. After correcting for applicable taxes and deductions, it produces net pay."
+            },
+            {
+               "id": "3",
+               "title": "Post Payroll",
+               "icon": "icon",
+               "description": "All required deductions, such as the Employee Provident Fund (EPF), Tax Deduction at Source (TDS), and Employee State Insurance (ESI), are made at the time of processing.They are then sent to the appropriate government agencies."
+            }
+         ]
+      },
+      "benefits":{
+         "title":"Benefits Of HR & Payroll Management System",
+         "description":"It automates employee pay and maintains human resource records like time and attendance. Payroll software saves lots of time for HR leaders and reduces paycheck errors—this leads to a more satisfied employee and fewer issues for management to deal with. Example of ADP Run payroll software.",
+         "benefitsList":[
+            {
+               "id":"1",
+               "title":"Holistic Approach",
+               "body":[
+                  "<ul><li>Record Each Action An Employee Takes</li><li>Business-Grade Solution</li><li> Built-In Reporting And Dashboard</li></ul>"
+               ]
+            },{
+               "id":"2",
+               "title":"Integrated System",
+               "body":[
+                  "<ul><li> Automation Of Payroll-Related Activities</li><li> Enhanced Data Security</li><li>Quicker Salary Calculation & Payments</li></ul>"
+               ]
+            },
+            {
+               "id":"3",
+               "title":"Value For Money",
+               "body":[
+                  "<ul><li>With Little To No Implementation Costs</li><li>A Cost-Effective, Full-Featured HR System</li><li>24/7 System-Driven Assistance</li></ul>"
+               ]
+            }
+         ]
+      },
+      "features": {
+         "title": "Features Of HR & Payroll Management System",
+         "descriptionOne": "The payroll management system is a solution that enables automation of the process for employers to pay wages to their employees. It is also a way of showing their commitment to the employees, keeping data of the financial transactions, and fulfilling obligations to the government agencies.",
+         "descriptionTwo": "For educational institutes, a payroll management system is used to automate & manage all the payroll-related activities for faculty & staff members of an institution. Right from managing staff’s salary, deductions, pay-slip generation to loans - the payroll management system takes care of everything.",
+         "featuresLIst": [
+            {
+               "id": "1",
+               "feature": "Settlement",
+               "description":"Our system makes it easy to manage settlements and keep track of all transactions."
+            },
+            {
+               "id": "2",
+               "feature": "Employee Management",
+               "description":"Easily manage all employee information in one place, including personal details, job roles, and more."
+            },
+            {
+               "id": "3",
+               "feature": "Payroll Access",
+               "description":"Our system provides restricted access to payroll information, ensuring privacy and security."
+            },
+            {
+               "id": "4",
+               "feature": "Contract Management",
+               "description":"Keep track of employee contracts and renewals."
+            },
+            {
+               "id": "5",
+               "feature": "Reimbursment",
+               "description":"Streamline your reimbursement process, including travel expenses and other expenses."
+            },
+            {
+               "id": "6",
+               "feature": "Promotion & Increment",
+               "description":"Track employee promotions and increments from a single dashboard."
+            },
+            {
+               "id": "7",
+               "feature": "Leave Management",
+               "description":"Manage employee leave requests and approvals with ease."
+            },
+            {
+               "id": "8",
+               "feature": "Bonus",
+               "description":"Easily manage bonuses and incentives for employees."
+            },
+            {
+               "id": "9",
+               "feature": "Loan Management",
+               "description":"Manage employee loans and repayment schedules without any hassle."
+            }
+         ]
+      },
+      "reportsGenerated": {
+         "title": "Reports Generated",
+         "description": "For educational institutes, a payroll management system is used to automate & manage all the payroll-related activities for faculty & staff members of an institution. Right from managing staff’s salary, deductions, pay-slip generation to loans - the payroll management system takes care of everything.",
+         "reportList": [
+            {
+               "id": "1",
+               "list": "Salary Bill Register"
+            },
+            {
+               "id": "2",
+               "list": "Bank Statement"
+            },
+            {
+               "id": "3",
+               "list": "Annual Report for all & individual Employee"
+            },
+            {
+               "id": "4",
+               "list": "Payslip and Salary certificate"
+            },
+            {
+               "id": "5",
+               "list": "Supplementary Bill Register"
+            },
+            {
+               "id": "6",
+               "list": "Form 16 and Form 24Q"
+            },
+            {
+               "id": "7",
+               "list": "Schedules of GPF, PT, Income Tax"
+            },
+            {
+               "id": "8",
+               "list": "PF Ledger"
+            },
+            {
+               "id": "9",
+               "list": "Declaration Form"
+            },
+            {
+               "id": "10",
+               "list": "LIC list with Policy details"
+            },
+            {
+               "id": "11",
+               "list": "PF Loan Sanction Statement"
+            },
+            {
+               "id": "12",
+               "list": "Selected Single head or Multiple head List"
+            },
+            {
+               "id": "13",
+               "list": "Monthly Installment Report"
+            },
+            {
+               "id": "14",
+               "list": "PF Broadsheet"
+            },
+            {
+               "id": "15",
+               "list": "Employee Id card"
+            },
+            {
+               "id": "16",
+               "list": "Abstract of Salary"
+            },
+            {
+               "id": "17",
+               "list": "PF Final settlement report"
+            },
+            {
+               "id": "18",
+               "list": "Selected field of employee"
+            }
+         ]
+      },
+      "faq": [
+         {
+            "id": "1",
+            "title": "What Is A Payroll Management System?",
+            "body": [
+               "<p>A payroll management system is software used to track and manage the pay wages of employees or staff of the office. It is also used to maintain their financial records and fulfill their responsibilities towards government agencies.</p>",
+               "<p>For educational institutes, a payroll management system is used to automate & manage all the payroll-related activities for faculty & staff members of an institution. Right from managing staff’s salary, deductions, pay-slip generation to loans - the payroll management system takes care of everything.</p>"
+            ]
+         },
+         {
+            "id": "2",
+            "title": "How Do I Implement A Payroll Management System?",
+            "body": [
+               "<p>You need to follow the given steps for ensuring the successful implementation of a payroll management system in your institution.</p>",
+               "<ul><li>Search for a reputed & trusted ERP vendor</li><li>Discuss your expectations & requirements for the payroll and HR system </li><li>The payroll system must be configurable to accommodate your needs</li><li>Arrange a demo of the payroll software & train your staff members</li><li>Go live with the payroll system </li></ul>"
+            ]
+         },
+         {
+            "id": "3",
+            "title": "What Are The Essential Features Of The Payroll Management System?",
+            "body": [
+               "<p>The following list depicts the essential features of the payroll management system.</p>",
+               "<ul><li>Automated payroll-related activities management</li><li>Automated attendance calculation & deductions</li><li>Auto salary calculation & pay-slip generation</li><li>Tax calculation & filing of returns</li><li>Automated accounting</li><li>Accurate MIS reports generation</li></ul>"
+            ]
+         },
+         {
+            "id": "4",
+            "title": "What Are The Functions Of The Payroll Management System?",
+            "body": [
+               "<p>The key functions of the payroll management system include the following-</p>",
+               "<ul><li>Compensation structuring</li><li>Defining leaves & deductions</li><li>Salary calculation & processing</li><li>Managing payroll taxes</li><li>Filing of returns</li><li>Pay-slips & reports generation</li></ul>"
+            ]
+         },
+      
+         {
+            "id": "5",
+            "title": "What Are The Benefits Of A Payroll Management System?",
+            "body": [
+               "<p>The following list depicts the best benefits of a payroll management system.-</p>",
+               "<ul><li>Automation of payroll-related activities</li><li>Error-free calculations</li><li>Cost-effective & time-saving tool</li><li>Complete data security</li><li>Salary calculation</li><li>Pay-slip generation</li></ul>"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,160 @@
+/*-------------------------
+    Team
+-------------------------*/
+.team-list {
+  width: 14%;
+  @media #{$smlg-device} {
+    width: 32%;
+  }
+  // margin: auto;
+}
+.team-grid {
+  text-align: center;
+  margin-bottom: 40px;
+  .thumbnail {
+    margin-bottom: 30px;
+    display: inline-block;
+    max-width: fit-content;
+    a {
+      position: relative;
+      &:after {
+        content: "";
+        height: 100%;
+        width: 100%;
+        border: 5px dashed #ff4725;
+        border-radius: 50%;
+        position: absolute;
+        left: 0px;
+        top: 0;
+        display: block;
+        transform: rotate(90deg);
+        visibility: hidden;
+        opacity: 0;
+        transition: var(--transition);
+      }
+      img {
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+      }
+    }
+  }
+  .content {
+    .title {
+      color: var(--color-white);
+      margin-bottom: 10px;
+      font-size: 15px;
+    }
+    .designation {
+      display: block;
+      color: #000;
+    }
+  }
+  &:hover,
+  &.active {
+    .thumbnail {
+      a {
+        &:after {
+          visibility: visible;
+          opacity: 1;
+          transform: rotate(0deg);
+        }
+      }
+    }
+  }
+}
+
+.team-details-content {
+  padding-right: 50px;
+  margin-bottom: 30px;
+  @media #{$sm-layout} {
+    padding-right: 0;
+  }
+
+  .subtitle {
+    display: block;
+    color: var(--color-primary);
+    border-bottom: 3px solid;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    @media #{$sm-layout} {
+      font-size: 18px;
+    }
+    br {
+      display: none;
+    }
+  }
+  .social-share {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: -10px;
+    li {
+      margin: 10px;
+      a {
+        font-size: 20px;
+        color: var(--color-gray-2);
+        &:hover {
+          color: var(--color-primary);
+        }
+      }
+    }
+  }
+  p {
+    font-size: 20px;
+    margin-top: 40px;
+    line-height: 1.7;
+  }
+}
+
+.team-details-thumb {
+  img {
+    border-radius: 10px;
+  }
+}
+.serviceData h4,.service_data h4 {
+  font-size: 34px;
+}
+.view-team{
+@media #{$sm-layout}{
+  width: 90% !important;
+  margin: auto !important;
+}
+@media #{$md-layout}{
+  width: 50% !important;
+  margin: auto !important;
+}
+@media #{$lg-layout}{
+  width: 50% !important;
+  margin: auto !important;
+}
+
+  width: 30% ;
+  margin: auto ;
+
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 0px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(90deg, rgb(255, 116, 37) 8%, rgb(0, 0, 0) 83%); 
+  border-radius: 12px;
+    height:80px
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}

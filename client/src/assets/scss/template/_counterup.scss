@@ -1,0 +1,132 @@
+/*-------------------------
+   Counter Up
+-------------------------*/
+img.light-icon {
+    width: 51px;
+}
+.counterup-progress {
+    // background: var(--gradient-primary);
+    // border: 1px solid;
+    // border-image-source: linear-gradient(0deg, #27272E 64.45%, rgba(74, 75, 86, 0.72) 100%);
+    // text-align: center;
+    // padding: 40px 20px 30px;
+    // border-radius: 30px;
+    // transition: var(--transition);
+    // margin-bottom: 30px;
+        /* background: var(--gradient-primary); */
+        border: 1px solid;
+        border-image-source: linear-gradient(0deg, #27272E 64.45%, rgba(74, 75, 86, 0.72) 100%);
+        text-align: center;
+        padding: 40px 20px 30px;
+        border-radius: 0;
+        transition: var(--transition);
+        margin-bottom: 30px;
+        box-shadow: 1px 4px 4px 5px rgba(0, 0, 0, 0.0705882353);
+        transform: perspective(1238px) rotateY(12deg);
+    @media #{$sm-layout} {
+        padding: 40px 20px;
+    } 
+    @media #{$large-mobile} {
+        padding: 30px 10px;
+        
+    }
+    
+    .icon {
+        margin-bottom: 20px;
+        img{
+            width: 80px;
+            height: 80px;
+        }
+    }
+    .count-number {
+       font-weight: 500;
+       background: linear-gradient(90deg, rgba(255,116,37,1) 8%, rgba(0,0,0,1) 83%)    ;
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: rgba(0,0,0,0);
+       font-family: var(--font-primary);
+       margin-bottom: 10px;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       @media #{$sm-layout} {
+        letter-spacing: 0;
+       }
+    }
+    .title {
+        color: var(--color-black);
+        font-weight: 600;
+        @media #{$md-layout}{
+            text-align: center;
+        }
+    }
+    &:hover, &.active {
+        // background: var(--gradient-dark);
+    }
+    &.counterup-style-2 {
+        transform: perspective(500px) rotateY(-5deg);
+        background:#fff;
+        border: none;
+        &::before{
+           
+            width: 92%;
+            height: 92%;
+            left: -14px;
+            bottom: -14px;
+            background: rgb(0 2 72 / 7%);
+            content: "";
+            position: absolute;
+            z-index: -1;
+            transform-style: preserve-3d;
+            transform: rotateY(-10deg);
+            filter: blur(14px);
+            transition: 0.3s;
+        
+    }
+    &::after{
+        background: #ffffff;
+        position: absolute;
+        content: "";
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        // -webkit-transform: perspective(500px) rotateY(-5deg);
+        // transform: perspective(500px) rotateY(-5deg);
+        // box-shadow: 0px 8px 5px #00000012;
+    }
+        .icon {
+            .light-icon {
+                display: none;
+            }
+        }
+        .title {
+            color: var(--color-body);
+        }
+        &:hover, &.active {
+            background-color: var(--color-light);
+        }
+    }
+}
+
+
+.expert-counterup-area {
+    @media #{$sm-layout}{
+        padding: 0px !important;
+    }
+    .section-heading {
+        p {
+            width: 100%;
+        }
+        .axil-btn {
+            width: 240px;
+        }
+    }
+}
+.col-lg-3.col-6 {
+   @media #{$sm-layout}{
+    width: 100%;
+   }
+}

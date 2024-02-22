@@ -1,0 +1,37 @@
+[
+
+    {
+        "thumb": "/images/others/bangalore.jpg",
+        "title": "Bengaluru ( HeadQuarters )",
+        "urlTitle":"Digital Marketing Agency In Bangalore",
+        "address": "7, 4th Floor, 1st Cross Rd, Balaji Layout, AMCO Colony, Koti Hosahalli, Bengaluru, Karnataka-560092"
+    },
+    {
+        "thumb": "/images/others/hydrabad.jpeg",
+        "title": "Hyderabad",
+        "urlTitle":"Digital Marketing Agency In Hyderabad",
+        "address": "#192, 6st Cross, Huda Techno Enclave Rd, HITEC City, Madhapur, Telangana 500081"
+    },
+    {
+        "thumb": "/images/others/chennai.jpeg",
+        "title": "Chennai",
+        "urlTitle":"Digital Marketing Agency In Chennai",
+        "address": "37, TT Krishnamachari Rd, CIT Colony, Alwarpet, Chennai, Tamil Nadu 600018"
+    },
+    {
+        "thumb": "/images/others/uae.jpg",
+        "title": "UAE",
+        "urlTitle":"Digital Marketing Agency In Bangalore",
+        "address": "Al Marsa Street Marina Plaza,Level 25–26  – Dubai – United Arab Emirates"
+    },
+    {
+        "thumb": "/images/others/dehli.jpg",
+        "title": "Delhi",
+        "address": "2nd Floor, Next to Select Citywalk Mall, Saket District Centre, Sector 6, New Delhi 110017"
+    },
+    {
+        "thumb": "/images/others/uae.jpg",
+        "title": "UAE",
+        "address": "Al Marsa Street Marina Plaza,Level 25–26  – Dubai – United Arab Emirates"
+    }
+]

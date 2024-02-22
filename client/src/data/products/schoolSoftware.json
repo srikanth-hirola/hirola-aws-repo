@@ -1,0 +1,167 @@
+[
+    {
+        "metaTitle":"Advanced School Management System | Simplify Administration",
+        "metadescription":"Simplify school administration and streamline operations with an advanced School Management System. Seamlessly manage student records, attendance, grades, timetables, and communication in one centralized platform.",
+        "title":"School, Learning & Student Information Management With Classter Erp",
+        "mainImage":"/images/products/get_free_guide.svg",
+        "description":"Easy to use, reliable, secure & efficient way to manage your processes & administration from enrollment to alumni and digitalize your organization to save time and money.",
+        "descriptionTwo":"Classter is the end-to-end Student Information, School & Learning Management System made for all types of organizations that offer educational or training services.",
+        "aboutUs":{
+            "title":"Meet your External IT Department",
+            "image":"/images/school/school-12.png",
+            "description":"Classter was launched in 2015 from a small team of engineers with a keen interest in digitally transforming a rather “traditional” industry. In 2015 we received seed financing from a major VC capital firm in Greece, Odyssey Partners with the aim of accelerating product development and accessing international markets. Since 2015, the company has managed to build an extensive network of business partners and resellers in more than 25 countries in Europe, Middle East and America. Classter is currently used by over 500 educational organizations worldwide, with over 300.000 active students, educators and parents on the platform. We are recognized as one of the major EdTech solutions in the Student Information System segment and we’re proud Microsoft Partners."
+        },
+        "ourValues":[
+            {
+                "id":"1",
+                "title":"Innovation",
+                "description":"Generate new and innovative ideas that will transform the world of education.",
+                "image":"/images/school/inventory.png"
+            },
+            {
+                "id":"2",
+                "title":"Commitment",
+                "description":"Committed to deliver high-value services to our customers.",
+                "image":"/images/school/handshake.png"
+            },
+            {
+                "id":"3",
+                "title":"Excellence",
+                "description":"Continuously and strategically evolve our platform using direct customer feedback.",
+                "image":"/images/school/excellent.png"
+            },
+            {
+                "id":"4",
+                "title":"Dependable & Reliable",
+                "description":"Offer a complete end-to-end solution, not just a single tool. Deliver top-notch support to our customers and their end-users.",
+                "image":"/images/school/dependable.png"
+            },
+            {
+                "id":"5",
+                "title":"Empowerment",
+                "description":"Empower and inspire our valued internal customers, our employees.",
+                "image":"/images/school/womens-day.png"
+            },
+            {
+                "id":"6",
+                "title":"Value",
+                "description":"Create value for all stakeholders: customers, employees and shareholders.",
+                "image":"/images/school/value.png"
+            }
+        ],
+        "ourServices":{
+            "title":"Simplify Your It Infrastructure",
+            "description":"Say goodbye to fragmented IT infrastructure and hello to the simplicity of a fully integrated solution.Classter is a modular solution that combines the functionality of five different systems into one platform that provides a seamless and unified experience.",
+            "servicesList":[
+                {
+                    "id":"1",
+                    "list":"Core",
+                    "decsription":"Our system includes a central platform for managing information about students, staff, and faculty members, making it easy to access and track essential data."
+                },
+                {
+                    "id":"2",
+                    "list":"Admissions",
+                    "decsription":"With our system, you can streamline the admissions process with online applications, real-time updates, and automatic notifications."
+                },
+                {
+                    "id":"3",
+                    "list":"Billing & Payments",
+                    "decsription":"Our software allows you to manage tuition fees, book fees, and other payments, making it easy to track and generate reports."
+                },
+                {
+                    "id":"4",
+                    "list":"Academic CRM",
+                    "decsription":" With the Academic CRM module, you can easily manage student progress, assign grades, and track attendance, making it easy to stay on top of academic performance."
+                },
+                {
+                    "id":"5",
+                    "list":"Academic & LMS",
+                    "decsription":"Our integrated Learning Management System (LMS) allows you to deliver course content, track student progress, and create assessments, all from one centralized location."
+                },
+                {
+                    "id":"6",
+                    "list":"Transportation Management",
+                    "decsription":"Our system allows you to manage transportation schedules, routes, and student pick-up and drop-off, ensuring a safe and efficient transport system."
+                },
+                {
+                    "id":"7",
+                    "list":"Internship & Thesis",
+                    "decsription":"The Internship and Thesis module allows you to manage student internships and theses, making it easy to track progress, provide feedback, and evaluate performance."
+                },
+                {
+                    "id":"8",
+                    "list":"Survey & Quizzes",
+                    "decsription":"Our Survey and Quizzes module allows you to create and administer surveys and quizzes, making it easy to collect feedback and assess student learning."
+                },
+                {
+                    "id":"9",
+                    "list":"Library Management",
+                    "decsription":"Our system includes a comprehensive library management module, allowing you to manage books, catalogs, and circulation, making it easy to track inventory and generate reports."
+                },
+                {
+                    "id":"10",
+                    "list":"Advanced Integrations",
+                    "decsription":" We offer advanced integrations with third-party software solutions commonly used in schools, such as Google Classroom and Microsoft Teams, making it easy to manage all your school's systems and resources from one dashboard."
+                },
+                {
+                    "id":"11",
+                    "list":"Mobile App",
+                    "decsription":"Our system includes a mobile app that allows students, parents, and staff to access essential information, such as schedules, assignments, and grades, from their mobile devices."
+                }
+            ]
+        },
+        "stakeList":{
+            "title":"Engage All Stakeholders In The Learning Process",
+            "description":"No more fragmented IT infrastructure or time-consuming manual data transfer. Classter streamlines all your school operations, saves time and reduces errors. Contact our sales team and discover the benefits of a fully integrated education technology solution!",
+            "stakeListInfo":[
+                {
+                    "id":"1",
+                    "title":"Student Portal",
+                    "description":"Students have access to a user-friendly portal for accessing information about their teaching sessions, homework and marking, as well as attendance data",
+                    "image":"/images/school/school-11.png"
+                },
+                {
+                    "id":"2",
+                    "title":"Parent Portal",
+                    "description":"Parents are up-to-date with their kids’ academic calendars, create one-to-one meetings with teachers, and manage online tuition and payments through their individualized portal.",
+                    "image":"/images/school/school-12.png"
+                },
+                {
+                    "id":"3",
+                    "title":"Applicant Portal",
+                    "description":"Admission officers can choose to set up personalized entry portals with special processes and criteria for managing intricate application procedures. The Applicant Portal refers not only to students, but to parents applying for their underage too.",
+                    "image":"/images/school/school-7.png"
+                },
+                {
+                    "id":"4",
+                    "title":"Educator Portal",
+                    "description":"Educators can use their personalized portal for creating teaching sessions, tracking attendance, updating marking information, and getting real-time information about students’ performance.",
+                    "image":"/images/school/school-8.png"
+                },
+                {
+                    "id":"5",
+                    "title":"Employee Portal",
+                    "description":"Engaged students become engaged alumni, as students can keep connected with the school after graduation and create a strong network that will support the student community. ",
+                    "image":"/images/school/school-9.png"
+                },
+                {
+                    "id":"6",
+                    "title":"Employee/Patner Portal",
+                    "description":"Nowadays, academia and industry collaborate closely. Companies are able to create profiles and provide internship opportunities for college students through their dedicated portal.",
+                    "image":"/images/school/school-10.png"
+                }
+            ]
+        },
+        "serviceIncludes":{
+            "title":"Hirola InfoTech Solutions Onboarding Service",
+            "body":[
+                "<p>Our vision is to improve global education by implementing a state-of-the-art cloud solution available at a reasonably low cost for any school, university or college all around the world. We commit to have the most sophisticated, user-friendly and functional complete SaaS platform, easily accessible by educational institutions worldwide.</p>",
+                "<p> We are confident that anyone can find their way around our brilliant software. But in case you wish to get hands-on help on how to maximise the benefits of i-Nucleus, we can set it up and customise the platform for you, with our on-boarding services for an additional one-off fee.</p>",
+                "<p><strong>The service will include the following:</strong></p>",
+                "<ul><li>Helping set up the site and its integrations.</li><li>Help on configuring your calendar, branches, classes and courses.</li><li>Business process mapping.</li><li>Admin and team training.</li></ul>",
+                "<p>We’re happy to tailor the onboarding package to your exact needs and business processes.</p>"
+            ],
+            "image":"/images/school/campaign.jpeg"
+        }
+    }
+]

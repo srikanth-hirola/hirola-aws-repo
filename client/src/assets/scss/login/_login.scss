@@ -1,0 +1,410 @@
+.Hirola-admin-login-page{
+    .admin-login-section {
+        min-height: 800px;
+        max-height: 100vh;
+        background: #000;
+    }
+    
+    .admin-login-sub {
+        display: flex;
+        align-items: center;
+        height: 750px;
+        justify-content: center;
+    }
+    
+    .admin-login-page-content h2 {
+        font-size: 76px;
+        font-weight: 600;
+        line-height: 94px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 30px;
+        color: #fff;
+    }
+    
+    .admin-login-page-content p {text-align: left;color: #fff;border: 2px solid #FFE;width: fit-content;padding: 10px 26px;font-size: 27px;font-weight: 600;border-radius: 4px;}
+    .admin-login-logo-image {
+        width: 200px;
+        height: 205px;
+    }
+    
+    .admin-login-logo-image img {
+        width: 100%;
+        height: 100%;
+    }
+    .admin-login-page-content hr {
+        color: #fff;
+        position: relative;
+        bottom: 50px;
+        width: 75%;
+        margin: auto;
+        left: 180px;
+        height: 2px;
+        background-image: linear-gradient(90deg, #fff, #fff 75%, white 75%, black 100%);
+        background-size: 20px 1px;
+        border: none;
+    
+    }
+    
+    .admin-login-page-circle-one {
+        width: 300px;
+        height: 300px;
+        border-radius: 302px;
+        background: linear-gradient(180deg, #530061 0%, #0D0A30 100%);
+        z-index: 1;
+        position: absolute;
+        top: -84px;
+        left: -31px;
+    }
+    
+    .admin-login-page-form-section {
+        border-radius: 20px;
+        border: 1px solid var(--Glass1-Stroke-Carey, #AFAFAF);
+        background: var(--Glass1-Fill-Carey, linear-gradient(321deg, rgba(191, 191, 191, 0.06) 5.98%, rgba(0, 0, 0, 0.00) 66.28%), rgba(0, 0, 0, 0.14));
+        box-shadow: -8px 4px 5px 0px rgba(0, 0, 0, 0.24);
+        backdrop-filter: blur(26.5px);
+        width: 70%;
+        min-height: fit-content;
+        position: relative;
+        z-index: 2;
+        margin: auto;
+    }
+    
+    .admin-login-page-form {
+        position: relative;
+    }
+    
+    .admin-login-page-circle-two {
+        width: 200px;
+        height: 200px;
+        background: linear-gradient(180deg, #300061 0%, #0A1030 100%);
+        border-radius: 50%;
+        position: absolute;
+        right: 67px;
+        bottom: -16%;
+    }
+    
+    .admin-login-page-form-section label {
+        color: #fff;
+        text-align: left;
+        padding: 10px 0px;
+    }
+    
+    .admin-login-page-form-section input {
+        border-radius: 6px;
+        border: 1px solid #FFF;
+        color: #000;
+        padding: 12px 13px;
+        /* background: red !important; */
+        width: 100%;
+        background: #fff !important;
+        mix-blend-mode: multiply;
+        font-family: var(--font-secondary);
+    letter-spacing: 2px;
+    }
+    
+    
+    .ant-form-item-control-input-content {background: transparent !important;}
+    
+    .ant-form-item-control-input {
+        background: transparent;
+    }
+    
+    .ant-col.ant-col-16.ant-form-item-control {
+        background: transparent;
+        max-width: 100%;
+    }
+    
+    .ant-form-item {
+        text-align: left;
+        padding: 20px 2px;
+    }
+    
+    form#basic {
+        padding: 20px 39px;
+    }
+    
+    span.ant-input-suffix {
+        position: relative;
+        font-size: 20px;
+    }
+
+    .hirola-admin-h1-tag{
+        background: linear-gradient(90deg, rgb(255, 116, 37) 8%, rgb(0, 0, 0) 106%);
+        -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+    font-size: var(--h2);
+    line-height: 1.2;
+    }
+
+   
+    
+    span.ant-input-suffix span {
+        position: absolute;
+        right: 19px;
+        top: 20px;
+    }
+    
+    label.ant-checkbox-wrapper.ant-checkbox-wrapper-checked.ant-checkbox-wrapper-in-form-item {
+        display: flex;
+        width: fit-content;
+        justify-content: space-between;
+        align-items: center;
+        height: 30px;
+    }
+    
+    button.admin-login-page-button {
+        border-radius: 12px;
+        background: linear-gradient(91deg, #628EFF 9.91%, #8740CD 53.29%, #580475 91.56%);
+        color: #fff;
+        width: 100%;
+        padding: 13px;
+        border: none;
+        font-size: 22px;
+    }
+
+    .hirola-admin-forget-password{
+        text-align: center;
+    }
+    
+    .admin-login-page-form-section p a {
+        color: #FFF;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        text-decoration: none;
+        line-height: 57px;
+    }
+    
+    .home-login-line-or {
+        display: flex;
+        align-items: center;
+        height: 30px;
+        position: relative;
+        bottom: 16px;
+    }
+    
+    .home-login-line-or hr {
+        color: #fff;
+        width: 43%;
+        margin: auto;
+        background: #fff;
+        border: 2px solid;
+    }
+    
+    .home-login-line-or p {
+        color: #fff;
+        padding: 0px 10px;
+        margin-top: 10px;
+    }
+    
+    
+    @media screen and (max-width:767px){
+        .admin-login-section {
+            min-height: fit-content;
+            max-height: fit-content;
+            background: #000;
+        }
+        
+        .admin-login-sub {
+            display: flex;
+            align-items: center;
+            height: fit-content;
+            justify-content: center;
+        }
+        
+        .admin-login-page-content h2 {
+            font-size: 45px;
+            font-weight: 600;
+            line-height: 49px;
+            letter-spacing: 0em;
+            text-align: left;
+            color: #fff;
+            margin-bottom: 30px;
+        }
+        .admin-login-page-content hr {
+            color: #fff;
+            border: 3px dashed #fff;
+            position: relative;
+            bottom: 50px;
+            min-width: 34%;
+            margin: auto;
+            left: 29%;
+            max-width: 59%;
+            display: none;
+        }
+        
+        .admin-login-sub {
+            
+                display: flex;
+                align-items: center;
+                height: -moz-fit-content;
+                min-height: 1040px;
+                justify-content: center;
+        }
+     
+        
+        .admin-login-page-circle-one {
+            width: 200px;
+            height: 200px;
+            border-radius: 209px;
+            background: linear-gradient(180deg, #530061 0%, #0D0A30 100%);
+            z-index: 1;
+            position: absolute;
+            top: -3px;
+            left: -10px;
+        
+        }
+        
+        .admin-login-page-form-section {
+            border-radius: 20px;
+            border: 1px solid var(--Glass1-Stroke-Carey, #AFAFAF);
+            background: var(--Glass1-Fill-Carey, linear-gradient(321deg, rgba(191, 191, 191, 0.06) 5.98%, rgba(0, 0, 0, 0.00) 66.28%), rgba(0, 0, 0, 0.14));
+            box-shadow: -8px 4px 5px 0px rgba(0, 0, 0, 0.24);
+            backdrop-filter: blur(26.5px);
+            max-width: 107%;
+            min-width: 105%;
+            min-height: fit-content;
+            position: relative;
+            z-index: 2;
+            margin: auto;
+        }
+        .admin-login-page-content {
+            margin-bottom: 71px;
+        }
+        .admin-login-page-form {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 650px;
+        }
+        
+        .admin-login-page-circle-two {
+            width: 200px;
+            height: 200px;
+            background: linear-gradient(rgb(48, 0, 97) 0%, rgb(10, 16, 48) 100%);
+            border-radius: 50%;
+            position: absolute;
+            right: -27px;
+            bottom: 0%;
+        }
+        
+    }
+    @media screen and (min-width:768px) and  (max-width:991px){
+        .admin-login-section {
+            min-height: fit-content;
+            max-height: fit-content;
+            background: #000;
+        }
+        
+        .admin-login-sub {
+            display: flex;
+            align-items: center;
+            height: fit-content;
+            justify-content: center;
+        }
+        
+        .admin-login-page-content h2 {
+            font-size: 45px;
+            font-weight: 600;
+            line-height: 49px;
+            letter-spacing: 0em;
+            text-align: left;
+            color: #fff;
+            margin-bottom: 30px;
+        }
+        .admin-login-page-content hr {
+            color: #fff;
+            border: 3px dashed #fff;
+            position: relative;
+            bottom: 50px;
+            min-width: 34%;
+            margin: auto;
+            left: 29%;
+            max-width: 59%;
+        }
+        
+        .admin-login-sub {
+            
+                display: flex;
+                align-items: center;
+                height: -moz-fit-content;
+                min-height: 700px;
+                justify-content: center;
+        }
+     
+        
+        .admin-login-page-circle-one {
+            width: 200px;
+            height: 200px;
+            border-radius: 209px;
+            background: linear-gradient(180deg, #530061 0%, #0D0A30 100%);
+            z-index: 1;
+            position: absolute;
+            top: -3px;
+            left: -10px;
+        
+        }
+        
+        .admin-login-page-form-section {
+            border-radius: 20px;
+            border: 1px solid var(--Glass1-Stroke-Carey, #AFAFAF);
+            background: var(--Glass1-Fill-Carey, linear-gradient(321deg, rgba(191, 191, 191, 0.06) 5.98%, rgba(0, 0, 0, 0.00) 66.28%), rgba(0, 0, 0, 0.14));
+            box-shadow: -8px 4px 5px 0px rgba(0, 0, 0, 0.24);
+            backdrop-filter: blur(26.5px);
+            width: 100%;
+            min-height: fit-content;
+            position: relative;
+            z-index: 2;
+            margin: auto;
+        }
+        .admin-login-page-content {
+            margin-bottom: 71px;
+        }
+        .admin-login-page-form {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 650px;
+        }
+        
+        .admin-login-page-circle-two {
+            width: 200px;
+            height: 200px;
+            background: linear-gradient(rgb(48, 0, 97) 0%, rgb(10, 16, 48) 100%);
+            border-radius: 50%;
+            position: absolute;
+            right: -27px;
+            bottom: 0%;
+        }
+        
+    }
+    @media screen and (min-width:992px) and (max-width:1200px){
+        .admin-login-page-form-section{
+            width: 100%;
+        }
+        .admin-login-page-circle-one {
+            width: 300px;
+            height: 300px;
+            border-radius: 302px;
+            background: linear-gradient(180deg, #530061 0%, #0D0A30 100%);
+            z-index: 1;
+            position: absolute;
+            top: -84px;
+            left: -111px;
+        }
+        .admin-login-page-circle-two {
+            width: 200px;
+            height: 200px;
+            background: linear-gradient(180deg, #300061 0%, #0A1030 100%);
+            border-radius: 50%;
+            position: absolute;
+            right: -44px;
+            bottom: -18%;
+        }
+    }
+}

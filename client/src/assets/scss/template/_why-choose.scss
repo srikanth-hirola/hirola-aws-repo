@@ -1,0 +1,54 @@
+/*-------------------------
+    Why Choose
+-------------------------*/
+.why-choose-us {
+    @media #{$md-layout} {
+        margin-bottom: 60px;
+    }
+    .section-heading {
+        margin-bottom: 50px;
+        p {
+            width: 100%;
+            color: #000;
+        }
+    }
+    .accordion-item {
+        border: none;
+        border-bottom: 1px solid var(--color-gray-2);
+        background-color: transparent;
+        border-radius: 0;
+        .accordion-button {
+            font-size: 24px;
+            // color: var(--color-primary);
+            background: linear-gradient(90deg, rgb(255, 116, 37) 8%, rgb(0, 0, 0) 83%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: rgba(0, 0, 0, 0);
+            // background-color: transparent;
+            box-shadow: none;
+            padding: 20px 10px 20px 0;
+            i, svg {
+                margin-right: 20px;
+                color: #ff4725;
+            }
+            &:after {
+                display: none;
+            }
+            &.collapsed {
+                color: var(--color-body);
+            }
+            @media #{$sm-layout}{
+                font-size: 20px;
+            }
+        }
+        .accordion-body {
+            padding: 0 0 18px 0;
+        }   
+    }
+    .why-choose-thumb {
+        position: relative;
+        z-index: 1;
+        img {
+            border-radius: 30px;
+        }
+    }
+}

@@ -1,0 +1,221 @@
+[
+    {
+        "metaTitle":"Optimize Your Inventory Management with a Powerful System | Efficient Inventory Control",
+        "metaDescription":"Enhance your inventory management process with a powerful and efficient Inventory Management System. Gain real-time visibility into your stock levels, streamline order fulfillment, track inventory movement, and minimize stockouts and overstocks.",
+        "title":"Inventory management software designed for Indian businesses",
+        "mainImage":"/images/products/hero.webp",
+        "description":"Hirola InfoTech Solutions is the leading inventory management and growth platform helping modern product sellers thrive. Connect every sales channel and automate orders end to end.",
+        "aboutUs":{
+            "title":"What is Hirola InfoTech Solutions Inventory Management?",
+            "description":"Hirola InfoTech Solutions Inventory Management provides a single, real-time view of inventory across all locations and sales channels, allowing businesses to reduce inventory on hand to free up cash while avoiding stockouts. By optimizing inventory levels and ensuring product availability across multiple channels, Hirola InfoTech Solutions Inventory Management helps businesses keep inventory costs low while exceeding customer expectations."
+        },
+        "inventoryOne":{
+            "title":"Automate Inventory Tracking",
+            "description":"Relying on spreadsheets or pen and paper to track inventory is neither efficient nor accurate. With Hirola InfoTech Solutions, your business can easily track inventory across multiple locations by automating inventory management in one unified solution.",
+            "image":"/images/products/inv-1.avif"
+        },
+        "inventoryTwo":{
+            "title":"Ultimate Inventory Visibility",
+            "description":"Real-time, company-wide inventory visibility — across warehouses, retail stores, pop-up shops, drop shippers, 3PLs or any other place where you manage or stock inventory — is key to enabling a buy anywhere, fulfill anywhere customer experience.",
+            "image":"/images/products/inv-2.avif"
+        },
+        "services":{
+            "title":"Increase your sales and be more efficient",
+            "description":"Streamline operations, increase profitable growth, all in one system with powerful warehouse, manufacturing, and retail capabilities.",
+        "servicesList":[
+            {
+                "id":"1",
+                "title":"Order management",
+                "description":"Handle all your sales and purchases activities, manage invoices and bills, and track payments. Zoho Inventory also helps you monitor packages and shipments to keep your deliveries on time."
+            },
+            {
+                "id":"2",
+                "title":"Barcode scanning",
+                "description":"Zoho Inventory is compatible with different types of barcode scanners which makes it easy to set up a barcode system and add SKUs, serial and batch numbers, and items to sales and purchase orders."
+            },
+            {
+                "id":"3",
+                "title":"Integrations",
+                "description":"Sell on Shopify or Etsy, integrate with Zoho CRM and Zoho Books, and receive payment online via PayPal or Razorpay—there is a wide range of integrations to support your business."
+            },
+            {
+                "id":"4",
+                "title":"Inventory tracking",
+                "description":"You can keep track of spare parts, saleable items, and even expiry dates with the serial and batch tracking feature of Zoho Inventory."
+            },
+            {
+                "id":"5",
+                "title":"Reports",
+                "description":"Know your inventory aging, vendor payments, sales details and inventory valuation from a range of reports which can be generated, downloaded and shared easily."
+            },
+            {
+                "id":"6",
+                "title":"Warehouse management",
+                "description":"You can control your stock in different warehouses or godowns centrally from Zoho Inventory. Track item movements, transfer items within warehouses, and generate warehouse-specific reports."
+            }
+        ]
+        },
+        "features":{
+            "title":"All the features you'll ever need to manage your business",
+            "desription":"",
+            "featuresList":[
+                {
+                    "id":"1",
+                    "title":"Inventory Management",
+                    "description":"Manage your inventory and check stock levels in real-time. Receive low inventory notifications and generate purchase orders to replenish your stock."
+                },
+                {
+                    "id":"2",
+                    "title":"Invoices & Estimates",
+                    "description":"Create beautiful, professional invoices & estimates in just a few seconds and then instantly email them as PDF's directly to your customers or prospects."
+                },
+                {
+                    "id":"3",
+                    "title":"Customer Accounts",
+                    "description":"With built-in CRM features you can keep track of all your customer accounts with ease. Add multiple contacts, private notes, and review their purchase history."
+                },
+                {
+                    "id":"4",
+                    "title":"Barcode Scanning",
+                    "description":"Scan inventory into your orders, generate barcodes for your documents, search for inventory or documents by scanning barcodes."
+                },
+                {
+                    "id":"5",
+                    "title":"Locations and Zones",
+                    "description":"Have multiple warehouses, offices, or retail stores? No problem. Easily track where all your inventory is by organizing everything into locations and zones."
+                },
+                {
+                    "id":"6",
+                    "title":"Item Variations",
+                    "description":"Organize inventory items using custom attributes such as size, color, and location. View how many you have globally or at each location."
+                },
+                {
+                    "id":"7",
+                    "title":"Kitting and Bundling",
+                    "description":"Use your inventory to combine, assemble, build, or manufacture new products and packages. Inventory pieces inside a kit are updated automatically."
+                },
+                {
+                    "id":"8",
+                    "title":"Shipment Tracking",
+                    "description":"Track your carrier shipment updates in real-time directly inside SalesBinder. Pull up an order and know exactly what the latest shipping status is."
+                },
+                {
+                    "id":"9",
+                    "title":"Currency Exchange",
+                    "description":"Keep your financials and reports completely accurate using your business's preferred base currency, while buying and selling goods in any currency."
+                },
+                {
+                    "id":"10",
+                    "title":"Purchase Orders",
+                    "description":"Replenish your inventory levels by purchasing more stock from your suppliers. Track when new stock will arrive and manage changes in unit costs."
+                },
+                {
+                    "id":"11",
+                    "title":"Reporting",
+                    "description":"Generate extremely detailed reports for your inventory, sales and services. Filter your reports by date-range and category to see what's making you the most money."
+                },
+                {
+                    "id":"12",
+                    "title":"User Permissions",
+                    "description":"Custom user permissions allows you to toggle what each of your team members can see and do. Hide things, make things read-only, or hide everyone else's stuff."
+                }
+            ]
+        },
+        "faeturedTab":{
+            "title":"Hirola InfoTech Solutions Inventory Management Features",
+            "description":"Hirola InfoTech Solutions Inventory Management minimizes manual processes by automatically tracking inventory levels, orders and sales throughout the inventory life cycle, and provides the insights needed to make data-driven decisions and clear visibility into any inventory liabilities, like excess or slow-moving stock.",
+            "tabList":[
+                {
+                    "id":"1",
+                    "title":"Multi-location Fulfillment",
+                    "body":[
+                        "<p>Hirola InfoTech Solutions Inventory Management gives you the ability to predefine fulfillment rules to eliminate multiple shipments for a single order and avoid excess shipping charges.</p>",
+                        "<p>With visibility into stock across all locations, you can proactively monitor stock levels and sell through, transferring inventory between locations as necessary to ensure inventory availability and minimize obsolete inventory. Sales associates are empowered to save potential lost sales in out-of-stock situations with enterprise-wide inventory availability that allows them to transfer, hold or ship items directly to the customer.</p>"
+                       
+                    ],
+                    "image":"/images/products/feat-img-1.avif"
+                },
+                {
+                    "id":"2",
+                    "title":"Replenishment",
+                    "body":[
+                        "<p>Fluctuations in demand, seasonality, supply chain logistics and a product’s natural life cycle must be accounted for to ensure sufficient stock on hand. Using demand-based replenishment, Hirola InfoTech Solutions Inventory Management uses historical and seasonal sales data, average lead time and number of inventory days’ of supply to dynamically manage item reorder points and maintain preferred stock levels. Hirola InfoTech Solutions automatically generates tasks and alerts and sends them to the purchasing manager.</p>"
+                    
+                    ],
+                    "image":"/images/products/feat-img-1.avif"
+                },
+                {
+                    "id":"3",
+                    "title":"Cycle Counting",
+                    "body":[
+                        "<p>Hirola InfoTech Solutions Smart Count is an inventory cycle counting solution that enables organizations to improve the efficiency and accuracy of inventory management by automating inventory counts without freezing transactions in the entire location. The inventory level used for the count is taken at the time the count starts for each individual item. Smart Count keeps track of transactions that happen for the items being counted, and if there is any activity during the count, Hirola InfoTech Solutions automatically alerts counters so they can react appropriately. Preferences allow administrators to choose what happens if the on-hand quantity changes for an item during the count process.</p>"
+                    ],
+                    "image":"/images/products/feat-img-1.avif"
+                },
+                {
+                    "id":"4",
+                    "title":"Traceability",
+                    "body":[
+                        "<p>Hirola InfoTech Solutions Inventory Management lets you back and forward trace inventory using lot and serial tracing. Lot-numbered items track the quantity and specific cost for each lot as products are purchased and produced. Serializing inventory allows you to choose a specific item when you fulfill an order. Together, lot and serial numbers let you define fulfillment strategies (such as first expiring, first out) , minimizing waste and ensuring inventory is used in the most efficient way.</p>",
+                        "<p>Bin management and defining your merchandise hierarchy also help with traceability. Matrix items track products by options such as size and color. Updates made to the parent item are automatically applied to sub-items, greatly simplifying SKU management.</p>"
+                        
+                    ],
+                    "image":"/images/products/feat-img-1.avif"
+                },
+                {
+                    "id":"5",
+                    "title":"Item Visibility",
+                    "body":[
+                        "<p>The Item 360 Dashboard brings together all relevant information related to an item in a single, centralized location. By putting all the information a user could need on any item in one place inventory planning and management become easier to do. Item 360 goes beyond the basics to show information like user-selected KPls, inventory count by location and projected stock levels, with alerts for anticipated shortages or overstocks.</p>"
+
+                    ],
+                    "image":"/images/products/feat-img-1.avif"
+                }
+            ]
+
+        },
+        "automated":{
+            "title":"Everything automated in one system",
+            "description":"Now you can do both: Increase sales and be more efficient",
+            "listData":[
+                {
+                    "id":"1",
+                    "info":"Connect everything and anything to streamline operations"
+                },
+                {
+                    "id":"2",
+                    "info":"Increase sales by simply turning on sales channels"
+                },
+                {
+                    "id":"3",
+                    "info":"Lower operating costs by turning on automations"
+                },
+                {
+                    "id":"4",
+                    "info":"Gain efficiencies by turning on built-in capabilities"
+                }
+            ],
+            "image":"/images/products/autm.svg"
+        },
+        "faq":{
+            "title":"You Have Questions, We Have the Answers",
+            "faqList":[
+                {
+                    "id":"1",
+                    "title":"How do I add inventory to Hirola InfoTech Solutions?",
+                    "description":"To add an inventory item in Hirola InfoTech Solutions, you must create the inventory item record, defining the item’s unique characteristics, including: units of measure, how you cost items (FIFO, LIFO, average, etc.), landed cost and replenishment method, set list price and discount price, as well as COGS."
+                },
+                {
+                    "id":"2",
+                    "title":"What is inventory control?",
+                    "description":"Inventory control refers to a business’ ability to secure the required stock to fulfill anticipated orders without delay, while keeping inventory carrying costs to a minimum."
+                },
+                {
+                    "id":"3",
+                    "title":"How do I adjust inventory in Hirola InfoTech Solutions?",
+                    "description":"Adjusting inventory in Hirola InfoTech Solutions can be done individually for that item or in bulk using the inventory worksheet. You can update item quantities individually in the Transaction menu, but changes to the inventory record such as value, unit cost, etc., must be done in the item master."
+                }
+            ]
+        }
+    }
+]
