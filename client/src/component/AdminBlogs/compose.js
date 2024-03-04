@@ -30,7 +30,7 @@ const Compose = () => {
   const submit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('https://api.hirolainfotech.com/admin/compose', { blogData })
+      await axios.post('http://3.6.159.57:8000//admin/compose', { blogData })
       navigate('/admin');
       toast.success("Published Blog Successfully!")
     } catch (e) {

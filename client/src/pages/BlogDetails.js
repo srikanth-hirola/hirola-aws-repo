@@ -55,7 +55,7 @@ const BlogDetails = () => {
     }
   };
   useEffect(() => {
-    let API = `https://api.hirolainfotech.com/${blogSlug}`;
+    let API = `http://3.6.159.57:8000//${blogSlug}`;
     fetchBlog(API);
   }, [blogSlug]);
 

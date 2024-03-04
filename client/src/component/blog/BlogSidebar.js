@@ -25,7 +25,7 @@ const BlogSidebar = () => {
     };
 
     useEffect(() => {
-        let API = "https://api.hirolainfotech.com/admin/admin";
+        let API = "http://3.6.159.57:8000//admin/admin";
         fetchBlog(API);
     }, []);
 

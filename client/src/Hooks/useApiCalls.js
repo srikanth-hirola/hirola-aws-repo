@@ -4,8 +4,8 @@ import { toast } from "react-toastify";
 
 export const useApiCalls = () => {
     const navigate = useNavigate();
-    // const url = 'https://api.hirolainfotech.com/';
-    const url = 'https://api.hirolainfotech.com/';
+    // const url = 'http://3.6.159.57:8000//';
+    const url = 'http://3.6.159.57:8000//';
 
     const handleImageDeleteCloude = (e, id, _id) => {
         e.preventDefault();

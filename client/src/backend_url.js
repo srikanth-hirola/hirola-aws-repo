@@ -1,1 +1,1 @@
-export const backend_url = "https://api.hirolainfotech.com"
+export const backend_url = "http://3.6.159.57:8000/"

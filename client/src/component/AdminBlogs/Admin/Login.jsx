@@ -26,7 +26,7 @@ export const Login = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const { data } = await axios.post('https://api.hirolainfotech.com/admin/login', { formData })
+            const { data } = await axios.post('http://3.6.159.57:8000//admin/login', { formData })
 
             setCookie('adminBlogCookie', data?.token)
             navigate('/admin')
