@@ -13,7 +13,7 @@ const BlogGridOne = ({ blogsLength }) => {
     const [pagefound, setPageFound] = useState("");
 
     const [toggler, setToggler] = useState(false);
-    let API = "http://3.6.159.57:8000//admin/admin/pagination";
+    let API = "http://3.6.159.57:8000/admin/admin/pagination";
 
 
     const fetchBlog = async (url, pageNum) => {
@@ -96,7 +96,7 @@ const BlogGridOne = ({ blogsLength }) => {
     // };
 
     // useEffect(() => {
-    //     let API = "http://3.6.159.57:8000//admin/admin";
+    //     let API = "http://3.6.159.57:8000/admin/admin";
     //     fetchBlog(API);
     // }, []);
 

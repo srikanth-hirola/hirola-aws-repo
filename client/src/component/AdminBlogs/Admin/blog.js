@@ -21,7 +21,7 @@ const Blog = () => {
 
   const navigate = useNavigate();
 
-  let API = `http://3.6.159.57:8000//admin/blog/${slugURL}`;
+  let API = `http://3.6.159.57:8000/admin/blog/${slugURL}`;
 
   const fetchBlog = async (url) => {
     try {

@@ -13,7 +13,7 @@ const DeleteButton = ({ id, setLoading, endpoint, message }) => {
 
     try {
       await axios
-        .delete(`http://3.6.159.57:8000//admin/blog/delete/${id}`)
+        .delete(`http://3.6.159.57:8000/admin/blog/delete/${id}`)
         .then(() => {
           console.log('Deletion Success');
           window.location.reload(false);

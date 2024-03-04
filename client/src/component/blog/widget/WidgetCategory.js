@@ -26,7 +26,7 @@ const WidgetCategory = ({ blogs }) => {
   };
 
   useEffect(() => {
-    let API = "http://3.6.159.57:8000//admin/admin/categories";
+    let API = "http://3.6.159.57:8000/admin/admin/categories";
     fetchBlog(API);
   }, []);
 

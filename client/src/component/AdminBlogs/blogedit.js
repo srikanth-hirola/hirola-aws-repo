@@ -34,7 +34,7 @@ const BlogEdit = () => {
   const [loading, setLoading] = useState(false);
 
 
-  let API = `http://3.6.159.57:8000//admin/blog/edit/${idURL}`;
+  let API = `http://3.6.159.57:8000/admin/blog/edit/${idURL}`;
 
   const fetchBlog = async (url) => {
     try {
@@ -70,7 +70,7 @@ const BlogEdit = () => {
     e.preventDefault();
     setLoading(true)
     try {
-      await axios.put(`http://3.6.159.57:8000//admin/update/${idURL}`, { blogEdit })
+      await axios.put(`http://3.6.159.57:8000/admin/update/${idURL}`, { blogEdit })
       navigate('/admin');
       toast.success("Updated Blog Successfully!")
       setLoading(false)

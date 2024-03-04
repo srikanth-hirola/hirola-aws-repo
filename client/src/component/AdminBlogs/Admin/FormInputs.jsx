@@ -17,7 +17,7 @@ export const FormInputs = ({ blogData, setBlogData, _id }) => {
     useEffect(() => {
         const fetchCategories = async () => {
             try {
-                const { data } = await axios.get('http://3.6.159.57:8000//admin/category')
+                const { data } = await axios.get('http://3.6.159.57:8000/admin/category')
                 setCategoryDropDown(data?.categories)
             } catch (error) {
                 console.log(error)
@@ -97,7 +97,7 @@ export const FormInputs = ({ blogData, setBlogData, _id }) => {
     const handleAddCategory = async (e) => {
         e.preventDefault();
         try {
-            await axios.post('http://3.6.159.57:8000//admin/category', { category })
+            await axios.post('http://3.6.159.57:8000/admin/category', { category })
             let updatedState = [...categoryDropDown];
             updatedState.push({ category });
             setCategoryDropDown(updatedState)
@@ -116,7 +116,7 @@ export const FormInputs = ({ blogData, setBlogData, _id }) => {
 
     const handleCloudinaryImageDelete = async (public_id, _id) => {
         try {
-            await axios.delete(`http://3.6.159.57:8000//admin/delete-Img/${public_id}/${_id}`)
+            await axios.delete(`http://3.6.159.57:8000/admin/delete-Img/${public_id}/${_id}`)
             let updatedState = { ...blogData };
             let images = [...updatedState.large_thumb];
             images = images?.filter((image) => image?.public_id !== public_id)
